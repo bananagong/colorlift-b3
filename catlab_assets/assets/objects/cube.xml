@@ -1,0 +1,17 @@
+<mujoco model="cube">
+  <asset/>
+  <worldbody>
+    <body>
+      <body name="object">
+        <geom name="collision" type="box" size="0.02 0.02 0.02" mass="0.064"
+              friction="0.8 0.005 0.0001" condim="4" group="0" rgba="0.8 0.1 0.1 0"
+              solref="0.01 1" solimp="0.95 0.99 0.001"/>
+        <geom name="visual" type="box" size="0.02 0.02 0.02" mass="0" group="1"
+              contype="0" conaffinity="0" rgba="0.85 0.12 0.12 1"/>
+      </body>
+      <site name="bottom_site" pos="0 0 -0.02" size="0.003" rgba="0 0 0 0"/>
+      <site name="top_site" pos="0 0 0.02" size="0.003" rgba="0 0 0 0"/>
+      <site name="horizontal_radius_site" pos="0.0282842712474619 0 0" size="0.003" rgba="0 0 0 0"/>
+    </body>
+  </worldbody>
+</mujoco>

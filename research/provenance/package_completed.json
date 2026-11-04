@@ -1,0 +1,104 @@
+{
+  "completed_at_UTC": "2026-11-01T08:19:32.726177+00:00",
+  "archives": [
+    {
+      "archive": "training_cache.tar.gz",
+      "files": 39,
+      "uncompressed_bytes": 28710986260,
+      "bytes": 6829635736,
+      "sha256": "543facc52cfa80dcb88ea9af8887a7e374260b94d72dc72b67c801e44b41e08f"
+    },
+    {
+      "archive": "expert_demonstrations.tar.gz",
+      "files": 14810,
+      "uncompressed_bytes": 6196033501,
+      "bytes": 5810801135,
+      "sha256": "dbf6a2093b631ad81f390d75ca9bc043ece3a492cddd8f9b1ec2e43a7ebf326e"
+    },
+    {
+      "archive": "training_checkpoints.tar.gz",
+      "files": 167,
+      "uncompressed_bytes": 7471999671,
+      "bytes": 6647346807,
+      "sha256": "130a7015d5f348f531f51efabfe46794a42b9b4696ca7b911cb5bc249fba2aee"
+    },
+    {
+      "archive": "source_environment.tar.gz",
+      "files": 262,
+      "uncompressed_bytes": 3078847148,
+      "bytes": 3067163488,
+      "sha256": "d7b100ab957782750e2f2cba045113a0382e74a3e8cbfdaace208752cde88aac"
+    }
+  ],
+  "scope": {
+    "client_date_Asia_Shanghai": "2026-11-01",
+    "user_selected_model_family": "B3",
+    "relative_lambda": 0.1,
+    "original_frozen_reference": "legacy_B3_s44",
+    "main_reference_sha256": "d34b91b8882a764d7556a6a28663b6fe3d5d2b8a94426dbffa798d41ba41704d",
+    "new_replication_seeds": [
+      45,
+      46,
+      47,
+      48,
+      49,
+      50
+    ],
+    "historical_reference_seeds": [
+      43,
+      44
+    ],
+    "intermediate_model_directories": [
+      "experiments/colorlift_broad_act_round1/models/B3a_l0p1_s43",
+      "experiments/colorlift_broad_act_round1/models/B3a_l0p1_s44",
+      "experiments/colorlift_broad_act_round1/models/B3a_l0p3_s43",
+      "experiments/colorlift_broad_act_round1/models/B3a_l0p3_s44",
+      "experiments/colorlift_broad_act_round1/models/B3a_l1_s43",
+      "experiments/colorlift_broad_act_round1/models/B3a_l1_s44",
+      "experiments/colorlift_repro_confirm_v1/models/B3_s45",
+      "experiments/colorlift_repro_confirm_v1/models/B3_s46",
+      "experiments/colorlift_repro_confirm_v1/models/B3_s47",
+      "experiments/colorlift_repro_confirm_v1/models/B3_s48",
+      "experiments/colorlift_repro_confirm_v1/models/B3_s49",
+      "experiments/colorlift_repro_confirm_v1/models/B3_s50"
+    ],
+    "logical_demonstration_episodes": 2769,
+    "training_validation_counts": {
+      "train": {
+        "frames": 185826,
+        "episodes": 2337,
+        "geometries": 395,
+        "episodes_by_source": {
+          "0": 1728,
+          "1": 417,
+          "2": 192
+        },
+        "valid_frames": 182714
+      },
+      "val": {
+        "frames": 32946,
+        "episodes": 432,
+        "geometries": 48,
+        "episodes_by_source": {
+          "0": 432
+        },
+        "valid_frames": 32946
+      }
+    },
+    "files_by_archive": {
+      "training_cache": 39,
+      "expert_demonstrations": 14810,
+      "training_checkpoints": 167,
+      "source_environment": 262
+    },
+    "uncompressed_bytes_by_archive": {
+      "training_cache": 28710986260,
+      "expert_demonstrations": 6196033501,
+      "training_checkpoints": 7471999671,
+      "source_environment": 3078847148
+    },
+    "no_new_training_or_evaluation": true,
+    "GPU_used_for_preservation": false,
+    "original_files_preserved": true
+  }
+}

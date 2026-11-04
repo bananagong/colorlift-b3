@@ -1,0 +1,358 @@
+{
+  "locked_at_UTC": "2026-10-30T12:16:56.160291+00:00",
+  "models": {
+    "B0": {
+      "path": "experiments/colorlift_broad_act_round1/frozen/old_policy.pt",
+      "sha256": "886d02ac81c7171895c5011eb0a86578c4353ea6db2bcb9578bb2c570bf28a5a",
+      "controller": "original"
+    },
+    "B1": {
+      "path": "experiments/colorlift_broad_act_round1/models/B1_s43/policy.pt",
+      "sha256": "2b9eea743552fdc6db9fbaeb9c533f7167eb781752d156e9db4e6a4324e2e941",
+      "controller": "original"
+    },
+    "B2": {
+      "path": "experiments/colorlift_broad_act_round1/models/B2_balanced_s44/policy.pt",
+      "sha256": "7b92f8dd6f711106b77f902f87b43df0e14cbd415b4ed8fd9b9288b1a9144e34",
+      "controller": "original"
+    },
+    "B3": {
+      "path": "experiments/colorlift_broad_act_round1/models/B3a_l0p1_s44/policy.pt",
+      "sha256": "d34b91b8882a764d7556a6a28663b6fe3d5d2b8a94426dbffa798d41ba41704d",
+      "controller": "original"
+    },
+    "B4": {
+      "path": "experiments/colorlift_broad_act_round1/models/B4_s44/policy.pt",
+      "sha256": "a476d0b9c8336ca2635e5f304e5a1c38222810b86458d2f25b81e76c1b506338",
+      "controller": "safety_recovery"
+    }
+  },
+  "winner_details": {
+    "B1": {
+      "model": "B1_s43",
+      "chosen_checkpoint": "B1_s43_step3000",
+      "metrics": {
+        "episodes": 144,
+        "independent_geometries": 48,
+        "successes": 144,
+        "success_rate": 1.0,
+        "balanced_success": 1.0,
+        "contact_successes": 144,
+        "balanced_contact": 1.0,
+        "wrong_colors": 0,
+        "collision_episodes": 0,
+        "mean_steps_all": 76.125,
+        "mean_success_steps": 76.125,
+        "mean_close_XY_error_m": 0.010128362355423533
+      },
+      "all_checkpoints": {
+        "B1_s43_step1500": {
+          "episodes": 144,
+          "independent_geometries": 48,
+          "successes": 144,
+          "success_rate": 1.0,
+          "balanced_success": 1.0,
+          "contact_successes": 143,
+          "balanced_contact": 0.9950980392156863,
+          "wrong_colors": 0,
+          "collision_episodes": 1,
+          "mean_steps_all": 76.36111111111111,
+          "mean_success_steps": 76.36111111111111,
+          "mean_close_XY_error_m": 0.00969650223021797
+        },
+        "B1_s43_step3000": {
+          "episodes": 144,
+          "independent_geometries": 48,
+          "successes": 144,
+          "success_rate": 1.0,
+          "balanced_success": 1.0,
+          "contact_successes": 144,
+          "balanced_contact": 1.0,
+          "wrong_colors": 0,
+          "collision_episodes": 0,
+          "mean_steps_all": 76.125,
+          "mean_success_steps": 76.125,
+          "mean_close_XY_error_m": 0.010128362355423533
+        },
+        "B1_s43_step4500": {
+          "episodes": 144,
+          "independent_geometries": 48,
+          "successes": 144,
+          "success_rate": 1.0,
+          "balanced_success": 1.0,
+          "contact_successes": 144,
+          "balanced_contact": 1.0,
+          "wrong_colors": 0,
+          "collision_episodes": 0,
+          "mean_steps_all": 76.66666666666667,
+          "mean_success_steps": 76.66666666666667,
+          "mean_close_XY_error_m": 0.010534827233058496
+        },
+        "B1_s43_step6000": {
+          "episodes": 144,
+          "independent_geometries": 48,
+          "successes": 144,
+          "success_rate": 1.0,
+          "balanced_success": 1.0,
+          "contact_successes": 143,
+          "balanced_contact": 0.9950980392156863,
+          "wrong_colors": 0,
+          "collision_episodes": 1,
+          "mean_steps_all": 76.88888888888889,
+          "mean_success_steps": 76.88888888888889,
+          "mean_close_XY_error_m": 0.010196914266207717
+        }
+      },
+      "policy_path": "experiments/colorlift_broad_act_round1/models/B1_s43/policy.pt",
+      "sha256": "2b9eea743552fdc6db9fbaeb9c533f7167eb781752d156e9db4e6a4324e2e941",
+      "selection_primary": "physical closed-loop category-balanced success",
+      "final_used": false
+    },
+    "B2": {
+      "model": "B2_balanced_s44",
+      "chosen_checkpoint": "B2_balanced_s44_step6000",
+      "metrics": {
+        "episodes": 144,
+        "independent_geometries": 48,
+        "successes": 144,
+        "success_rate": 1.0,
+        "balanced_success": 1.0,
+        "contact_successes": 144,
+        "balanced_contact": 1.0,
+        "wrong_colors": 0,
+        "collision_episodes": 0,
+        "mean_steps_all": 76.40972222222223,
+        "mean_success_steps": 76.40972222222223,
+        "mean_close_XY_error_m": 0.009984454952023316
+      },
+      "all_checkpoints": {
+        "B2_balanced_s44_step1500": {
+          "episodes": 144,
+          "independent_geometries": 48,
+          "successes": 144,
+          "success_rate": 1.0,
+          "balanced_success": 1.0,
+          "contact_successes": 142,
+          "balanced_contact": 0.9784313725490197,
+          "wrong_colors": 0,
+          "collision_episodes": 2,
+          "mean_steps_all": 76.20833333333333,
+          "mean_success_steps": 76.20833333333333,
+          "mean_close_XY_error_m": 0.009383349452177487
+        },
+        "B2_balanced_s44_step3000": {
+          "episodes": 144,
+          "independent_geometries": 48,
+          "successes": 144,
+          "success_rate": 1.0,
+          "balanced_success": 1.0,
+          "contact_successes": 142,
+          "balanced_contact": 0.9907120743034056,
+          "wrong_colors": 0,
+          "collision_episodes": 2,
+          "mean_steps_all": 77.78472222222223,
+          "mean_success_steps": 77.78472222222223,
+          "mean_close_XY_error_m": 0.011355975267258107
+        },
+        "B2_balanced_s44_step4500": {
+          "episodes": 144,
+          "independent_geometries": 48,
+          "successes": 144,
+          "success_rate": 1.0,
+          "balanced_success": 1.0,
+          "contact_successes": 144,
+          "balanced_contact": 1.0,
+          "wrong_colors": 0,
+          "collision_episodes": 0,
+          "mean_steps_all": 76.54861111111111,
+          "mean_success_steps": 76.54861111111111,
+          "mean_close_XY_error_m": 0.010976692960853355
+        },
+        "B2_balanced_s44_step6000": {
+          "episodes": 144,
+          "independent_geometries": 48,
+          "successes": 144,
+          "success_rate": 1.0,
+          "balanced_success": 1.0,
+          "contact_successes": 144,
+          "balanced_contact": 1.0,
+          "wrong_colors": 0,
+          "collision_episodes": 0,
+          "mean_steps_all": 76.40972222222223,
+          "mean_success_steps": 76.40972222222223,
+          "mean_close_XY_error_m": 0.009984454952023316
+        }
+      },
+      "policy_path": "experiments/colorlift_broad_act_round1/models/B2_balanced_s44/policy.pt",
+      "sha256": "7b92f8dd6f711106b77f902f87b43df0e14cbd415b4ed8fd9b9288b1a9144e34",
+      "selection_primary": "physical closed-loop category-balanced success",
+      "final_used": false
+    },
+    "B3": {
+      "model": "B3a_l0p1_s44",
+      "chosen_checkpoint": "B3a_l0p1_s44_step6000",
+      "metrics": {
+        "episodes": 144,
+        "independent_geometries": 48,
+        "successes": 144,
+        "success_rate": 1.0,
+        "balanced_success": 1.0,
+        "contact_successes": 144,
+        "balanced_contact": 1.0,
+        "wrong_colors": 0,
+        "collision_episodes": 0,
+        "mean_steps_all": 76.36111111111111,
+        "mean_success_steps": 76.36111111111111,
+        "mean_close_XY_error_m": 0.009842656229877548
+      },
+      "all_checkpoints": {
+        "B3a_l0p1_s44_step1500": {
+          "episodes": 144,
+          "independent_geometries": 48,
+          "successes": 144,
+          "success_rate": 1.0,
+          "balanced_success": 1.0,
+          "contact_successes": 142,
+          "balanced_contact": 0.9784313725490197,
+          "wrong_colors": 0,
+          "collision_episodes": 2,
+          "mean_steps_all": 76.29166666666667,
+          "mean_success_steps": 76.29166666666667,
+          "mean_close_XY_error_m": 0.009713063154937964
+        },
+        "B3a_l0p1_s44_step3000": {
+          "episodes": 144,
+          "independent_geometries": 48,
+          "successes": 144,
+          "success_rate": 1.0,
+          "balanced_success": 1.0,
+          "contact_successes": 144,
+          "balanced_contact": 1.0,
+          "wrong_colors": 0,
+          "collision_episodes": 0,
+          "mean_steps_all": 77.16666666666667,
+          "mean_success_steps": 77.16666666666667,
+          "mean_close_XY_error_m": 0.010888549482370223
+        },
+        "B3a_l0p1_s44_step4500": {
+          "episodes": 144,
+          "independent_geometries": 48,
+          "successes": 144,
+          "success_rate": 1.0,
+          "balanced_success": 1.0,
+          "contact_successes": 144,
+          "balanced_contact": 1.0,
+          "wrong_colors": 0,
+          "collision_episodes": 0,
+          "mean_steps_all": 76.54861111111111,
+          "mean_success_steps": 76.54861111111111,
+          "mean_close_XY_error_m": 0.010924498226449022
+        },
+        "B3a_l0p1_s44_step6000": {
+          "episodes": 144,
+          "independent_geometries": 48,
+          "successes": 144,
+          "success_rate": 1.0,
+          "balanced_success": 1.0,
+          "contact_successes": 144,
+          "balanced_contact": 1.0,
+          "wrong_colors": 0,
+          "collision_episodes": 0,
+          "mean_steps_all": 76.36111111111111,
+          "mean_success_steps": 76.36111111111111,
+          "mean_close_XY_error_m": 0.009842656229877548
+        }
+      },
+      "policy_path": "experiments/colorlift_broad_act_round1/models/B3a_l0p1_s44/policy.pt",
+      "sha256": "d34b91b8882a764d7556a6a28663b6fe3d5d2b8a94426dbffa798d41ba41704d",
+      "selection_primary": "physical closed-loop category-balanced success",
+      "final_used": false
+    },
+    "B4": {
+      "model": "B4_s44",
+      "chosen_checkpoint": "B4_s44_step6000",
+      "metrics": {
+        "episodes": 144,
+        "independent_geometries": 48,
+        "successes": 131,
+        "success_rate": 0.9097222222222222,
+        "balanced_success": 0.9130841810408374,
+        "contact_successes": 131,
+        "balanced_contact": 0.9130841810408374,
+        "wrong_colors": 0,
+        "collision_episodes": 0,
+        "mean_steps_all": 130.49305555555554,
+        "mean_success_steps": 121.61068702290076,
+        "mean_close_XY_error_m": 0.007435128609051603
+      },
+      "all_checkpoints": {
+        "B4_s44_step1500": {
+          "episodes": 144,
+          "independent_geometries": 48,
+          "successes": 107,
+          "success_rate": 0.7430555555555556,
+          "balanced_success": 0.725187969924812,
+          "contact_successes": 106,
+          "balanced_contact": 0.7202860091404983,
+          "wrong_colors": 0,
+          "collision_episodes": 1,
+          "mean_steps_all": 147.39583333333334,
+          "mean_success_steps": 122.28971962616822,
+          "mean_close_XY_error_m": 0.00955420006161761
+        },
+        "B4_s44_step3000": {
+          "episodes": 144,
+          "independent_geometries": 48,
+          "successes": 130,
+          "success_rate": 0.9027777777777778,
+          "balanced_success": 0.9006634232640425,
+          "contact_successes": 128,
+          "balanced_contact": 0.8913754975674479,
+          "wrong_colors": 0,
+          "collision_episodes": 2,
+          "mean_steps_all": 133.41666666666666,
+          "mean_success_steps": 124.0923076923077,
+          "mean_close_XY_error_m": 0.007306884851956839
+        },
+        "B4_s44_step4500": {
+          "episodes": 144,
+          "independent_geometries": 48,
+          "successes": 117,
+          "success_rate": 0.8125,
+          "balanced_success": 0.8400339083001622,
+          "contact_successes": 117,
+          "balanced_contact": 0.8400339083001622,
+          "wrong_colors": 0,
+          "collision_episodes": 0,
+          "mean_steps_all": 141.67361111111111,
+          "mean_success_steps": 123.5982905982906,
+          "mean_close_XY_error_m": 0.007853350825444158
+        },
+        "B4_s44_step6000": {
+          "episodes": 144,
+          "independent_geometries": 48,
+          "successes": 131,
+          "success_rate": 0.9097222222222222,
+          "balanced_success": 0.9130841810408374,
+          "contact_successes": 131,
+          "balanced_contact": 0.9130841810408374,
+          "wrong_colors": 0,
+          "collision_episodes": 0,
+          "mean_steps_all": 130.49305555555554,
+          "mean_success_steps": 121.61068702290076,
+          "mean_close_XY_error_m": 0.007435128609051603
+        }
+      },
+      "policy_path": "experiments/colorlift_broad_act_round1/models/B4_s44/policy.pt",
+      "sha256": "a476d0b9c8336ca2635e5f304e5a1c38222810b86458d2f25b81e76c1b506338",
+      "controller": "safety_recovery",
+      "selection_primary": "same physical development success",
+      "final_used": false
+    }
+  },
+  "selected_sampler": "balanced",
+  "selected_relative_lambda": 0.1,
+  "selection_sources": "validation/development only",
+  "warm_start_history_caveat": true,
+  "final_preseal_sha256": "69f4b2f1b33971f56065a6b77421f002c7552124550a0c893b5b2f14194b7936"
+}

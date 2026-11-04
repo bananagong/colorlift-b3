@@ -1,0 +1,23 @@
+{
+  "user_decision_date_Asia_Shanghai": "2026-11-01",
+  "chosen_model_family": "B3a Goal-Relative ACT",
+  "relative_lambda": 0.1,
+  "main_model_role": "existing frozen reference B3 seed 44",
+  "main_model": "models/main_frozen_reference_seed44/policy.pt",
+  "main_model_sha256": "d34b91b8882a764d7556a6a28663b6fe3d5d2b8a94426dbffa798d41ba41704d",
+  "new_replication_seeds": [
+    45,
+    46,
+    47,
+    48,
+    49,
+    50
+  ],
+  "historical_reference_seeds": [
+    43,
+    44
+  ],
+  "replicas_kept_separately": true,
+  "weights_not_averaged": true,
+  "choice_not_a_new_significance_claim": true
+}

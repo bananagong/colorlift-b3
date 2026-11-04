@@ -1,0 +1,15 @@
+{
+  "kp": 260,
+  "pregrasp_clearance": 0.045,
+  "lift_margin": 0.015,
+  "open_gap": 0.05,
+  "maximum_step": 0.05,
+  "align_maximum_step": 0.045,
+  "minimum_close_steps": 3,
+  "stationary_finger_steps": 1,
+  "finger_motion_tolerance": 0.0003,
+  "xyz_tolerance": 0.005,
+  "xy_tolerance": 0.0045,
+  "deadband": 0.0007,
+  "visual_refine": false
+}

@@ -1,0 +1,9 @@
+{
+  "at_UTC": "2026-10-31T02:44:11.063784+00:00",
+  "new_geometries": 768,
+  "old768_exact_geometry_overlap": 0,
+  "historical_numeric_exclusion_registry_used": true,
+  "new_fine_and_coarse_keys_unique": true,
+  "expert_or_policy_success_filtering": false,
+  "policy_evaluations_before_seal": 0
+}

@@ -1,0 +1,10 @@
+name: robosuite
+channels:
+  - defaults
+dependencies:
+  - pip
+  - python=3.11
+variables:
+  MUJOCO_GL: egl
+  PYOPENGL_PLATFORM: egl
+prefix: /home/catlab/miniconda3/envs/robosuite

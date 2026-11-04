@@ -1,0 +1,48 @@
+{
+  "seed": 520000004,
+  "stream_seed": 5200,
+  "proposal_index": 4,
+  "level": "val",
+  "suite": "val",
+  "category": "uniform",
+  "relation_subtype": null,
+  "xy": [
+    [
+      0.08314874653688911,
+      -0.008639114882002363
+    ],
+    [
+      -0.0456924956756673,
+      -0.13518721394549163
+    ],
+    [
+      -0.05047824276912806,
+      0.0069980631403229465
+    ]
+  ],
+  "yaw": [
+    0.2820526306273987,
+    0.0789646356516665,
+    -0.2248405094722478
+  ],
+  "colors_by_slot": [
+    "red",
+    "blue",
+    "yellow"
+  ],
+  "color_assignment_index": 0,
+  "geometry_id": "85f6f8682f1f0a431b70dc88dc0e84f04ea4a887e76873410d4b68557d891d65",
+  "rendering_seed": 1420000005,
+  "scenario_id": "85f6f8682f1f0a43_val",
+  "features": {
+    "distances_m": [
+      0.13453881821798616,
+      0.14226579488834423,
+      0.18059481463059043
+    ],
+    "minimum_center_distance_m": 0.13453881821798616,
+    "area_ratio": 0.5802622276378279,
+    "edge_distance_m": 0.00981278605450836
+  },
+  "spatial_target_slot": null
+}

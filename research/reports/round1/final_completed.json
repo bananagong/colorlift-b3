@@ -1,0 +1,76 @@
+{
+  "complete": true,
+  "metrics": {
+    "B0": {
+      "episodes": 5376,
+      "independent_geometries": 768,
+      "successes": 4578,
+      "success_rate": 0.8515625,
+      "balanced_success": 0.7990865001066898,
+      "contact_successes": 4510,
+      "balanced_contact": 0.7819671828877415,
+      "wrong_colors": 2,
+      "collision_episodes": 120,
+      "mean_steps_all": 80.70107886904762,
+      "mean_success_steps": 77.38401048492791,
+      "mean_close_XY_error_m": 0.011901526182812924
+    },
+    "B1": {
+      "episodes": 5376,
+      "independent_geometries": 768,
+      "successes": 5358,
+      "success_rate": 0.9966517857142857,
+      "balanced_success": 0.9954296151228171,
+      "contact_successes": 5339,
+      "balanced_contact": 0.9935515822747395,
+      "wrong_colors": 0,
+      "collision_episodes": 19,
+      "mean_steps_all": 76.92261904761905,
+      "mean_success_steps": 76.91582680104517,
+      "mean_close_XY_error_m": 0.009676233697219271
+    },
+    "B2": {
+      "episodes": 5376,
+      "independent_geometries": 768,
+      "successes": 5372,
+      "success_rate": 0.9992559523809523,
+      "balanced_success": 0.9988390092879257,
+      "contact_successes": 5349,
+      "balanced_contact": 0.9955469492905268,
+      "wrong_colors": 0,
+      "collision_episodes": 25,
+      "mean_steps_all": 76.96819196428571,
+      "mean_success_steps": 76.92367833209234,
+      "mean_close_XY_error_m": 0.009209213378007397
+    },
+    "B3": {
+      "episodes": 5376,
+      "independent_geometries": 768,
+      "successes": 5376,
+      "success_rate": 1.0,
+      "balanced_success": 1.0,
+      "contact_successes": 5351,
+      "balanced_contact": 0.9970345544109624,
+      "wrong_colors": 0,
+      "collision_episodes": 25,
+      "mean_steps_all": 76.90457589285714,
+      "mean_success_steps": 76.90457589285714,
+      "mean_close_XY_error_m": 0.009057807969523674
+    },
+    "B4": {
+      "episodes": 5376,
+      "independent_geometries": 768,
+      "successes": 4526,
+      "success_rate": 0.8418898809523809,
+      "balanced_success": 0.8095932654797354,
+      "contact_successes": 4510,
+      "balanced_contact": 0.8072927135077191,
+      "wrong_colors": 0,
+      "collision_episodes": 19,
+      "mean_steps_all": 137.93563988095238,
+      "mean_success_steps": 122.52364118426867,
+      "mean_close_XY_error_m": 0.006895627315292588
+    }
+  },
+  "final_was_not_used_for_selection": true
+}

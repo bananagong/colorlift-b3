@@ -1,0 +1,21 @@
+{
+  "completed_at_UTC": "2026-11-01T09:03:37.263748+00:00",
+  "user_choice_date_Asia_Shanghai": "2026-11-01",
+  "folder": "C:\\Users\\LHY\\Desktop\\模型训练\\B3_模型完整归档_20261101",
+  "chosen_model_family": "B3",
+  "main_policy": "models/main_frozen_reference_seed44/policy.pt",
+  "main_policy_sha256": "d34b91b8882a764d7556a6a28663b6fe3d5d2b8a94426dbffa798d41ba41704d",
+  "direct_selected_policies": 8,
+  "B3_failure_cases": 369,
+  "total_archives": 6,
+  "training_episodes": 2337,
+  "validation_episodes": 432,
+  "cache_arrays": 38,
+  "all_copied_and_downloaded_file_hashes_match": true,
+  "all_new_archive_inner_file_hashes_match": true,
+  "manifest_sha256": "e2e3cab222e6e67ae174ee1c9ecfbf626a2e732c62a26132c5b6a53fddaa82ef",
+  "files": 1941,
+  "bytes": 32769664333,
+  "original_files_preserved": true,
+  "new_training_or_evaluation_started": false
+}

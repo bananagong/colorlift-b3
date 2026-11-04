@@ -1,0 +1,101 @@
+{
+  "sha": "742c753c0d4a5d87076c8f69e5628c79a8cc5488",
+  "node_id": "C_kwDOJBRNFdoAKDc0MmM3NTNjMGQ0YTVkODcwNzZjOGY2OWU1NjI4Yzc5YThjYzU0ODg",
+  "commit": {
+    "author": {
+      "name": "Tony Z. Zhao",
+      "email": "46111210+tonyzhaozh@users.noreply.github.com",
+      "date": "2024-01-28T20:18:07Z"
+    },
+    "committer": {
+      "name": "GitHub",
+      "email": "noreply@github.com",
+      "date": "2024-01-28T20:18:07Z"
+    },
+    "message": "Update README.md",
+    "tree": {
+      "sha": "d86d0895394f11a7a6c09b6478804c540c6d334a",
+      "url": "https://api.github.com/repos/tonyzhaozh/act/git/trees/d86d0895394f11a7a6c09b6478804c540c6d334a"
+    },
+    "url": "https://api.github.com/repos/tonyzhaozh/act/git/commits/742c753c0d4a5d87076c8f69e5628c79a8cc5488",
+    "comment_count": 0,
+    "verification": {
+      "verified": true,
+      "reason": "valid",
+      "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJltrZ/CRC1aQ7uu5UhlAAA5+cQABTxiQojjDIdSYooLE+xWimX\nlHkePGLM9DbATsNgD9RkEXnwMwtdShjue3P3RI3cDUfQnCSvl4H0j8rA0z/rTfHM\n42A4ZnrmhyQGL2MDwu3E+kc98WZWgKLRp423BOAmLq00bHshBusiQlecZFVd7Lu5\nWbfSe2Hee62qCjRTSjd5DCVY8e0lQpT3rtbsRLRrfL6l+qROd6WGHTiqQIo6mjWe\nBkq9unwh/PZbmK94/wA8+H0hB8OUhEDk+yo4cpU09hNfe4tV69/rzj2kWi7cY9On\nmHSirLZW8/Gre5zwvYvceCPTgmO1GhmEetWw01DTX4GbSIndVZGfO+opJ2MiS0xN\nF2nA3rjsilHSMpBsN9EmhhBKxxOGNAfVXYCe2U+Rrv22asI0shk676lQnObCFAX9\n+U42qWxGKdl1OkF8lXQym3AZTSDATtrBn18+c/zYOfDtStjis132SGscBT7+JaOF\nqaDmAZT7wISzsecETM7d9sOZQri6jN4HCJIkE3ZFCnbqM5gJbWsSWFLrl8RQR9Ib\njt4x1HjR3LSqkjZWTLy8lQUsY7llYnXVw9KdBMrnL/DMt8AloDmfhMUmonHB42IV\nMbrBH+7iTsU/0e7VoXkRLSu5jJJ43xviVmhaonybRcocDqb837UYIdFLnam7jIfs\nsXly2uP9BSUBEdh9XsWH\n=7Rli\n-----END PGP SIGNATURE-----\n",
+      "payload": "tree d86d0895394f11a7a6c09b6478804c540c6d334a\nparent 694c606940fc16289bafbd4c5d2c70bc27a98207\nauthor Tony Z. Zhao <46111210+tonyzhaozh@users.noreply.github.com> 1706473087 -0800\ncommitter GitHub <noreply@github.com> 1706473087 -0800\n\nUpdate README.md",
+      "verified_at": "2024-11-06T19:05:52Z"
+    }
+  },
+  "url": "https://api.github.com/repos/tonyzhaozh/act/commits/742c753c0d4a5d87076c8f69e5628c79a8cc5488",
+  "html_url": "https://github.com/tonyzhaozh/act/commit/742c753c0d4a5d87076c8f69e5628c79a8cc5488",
+  "comments_url": "https://api.github.com/repos/tonyzhaozh/act/commits/742c753c0d4a5d87076c8f69e5628c79a8cc5488/comments",
+  "author": {
+    "login": "tonyzhaozh",
+    "id": 46111210,
+    "node_id": "MDQ6VXNlcjQ2MTExMjEw",
+    "avatar_url": "https://avatars.githubusercontent.com/u/46111210?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/tonyzhaozh",
+    "html_url": "https://github.com/tonyzhaozh",
+    "followers_url": "https://api.github.com/users/tonyzhaozh/followers",
+    "following_url": "https://api.github.com/users/tonyzhaozh/following{/other_user}",
+    "gists_url": "https://api.github.com/users/tonyzhaozh/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/tonyzhaozh/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/tonyzhaozh/subscriptions",
+    "organizations_url": "https://api.github.com/users/tonyzhaozh/orgs",
+    "repos_url": "https://api.github.com/users/tonyzhaozh/repos",
+    "events_url": "https://api.github.com/users/tonyzhaozh/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/tonyzhaozh/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false
+  },
+  "committer": {
+    "login": "web-flow",
+    "id": 19864447,
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/web-flow",
+    "html_url": "https://github.com/web-flow",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false
+  },
+  "parents": [
+    {
+      "sha": "694c606940fc16289bafbd4c5d2c70bc27a98207",
+      "url": "https://api.github.com/repos/tonyzhaozh/act/commits/694c606940fc16289bafbd4c5d2c70bc27a98207",
+      "html_url": "https://github.com/tonyzhaozh/act/commit/694c606940fc16289bafbd4c5d2c70bc27a98207"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "additions": 2,
+    "deletions": 2
+  },
+  "files": [
+    {
+      "sha": "2c6f726dc91071e803002bf70b4a64cf812b0286",
+      "filename": "README.md",
+      "status": "modified",
+      "additions": 2,
+      "deletions": 2,
+      "changes": 4,
+      "blob_url": "https://github.com/tonyzhaozh/act/blob/742c753c0d4a5d87076c8f69e5628c79a8cc5488/README.md",
+      "raw_url": "https://github.com/tonyzhaozh/act/raw/742c753c0d4a5d87076c8f69e5628c79a8cc5488/README.md",
+      "contents_url": "https://api.github.com/repos/tonyzhaozh/act/contents/README.md?ref=742c753c0d4a5d87076c8f69e5628c79a8cc5488",
+      "patch": "@@ -35,8 +35,8 @@ You can find all scripted/human demo for simulated environments [here](https://d\n     pip install pyyaml\n     pip install rospkg\n     pip install pexpect\n-    pip install mujoco\n-    pip install dm_control\n+    pip install mujoco==2.3.7\n+    pip install dm_control==1.0.14\n     pip install opencv-python\n     pip install matplotlib\n     pip install einops"
+    }
+  ]
+}

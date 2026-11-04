@@ -1,0 +1,82 @@
+{
+  "model": "B3_s49",
+  "chosen_checkpoint": "B3_s49_step1500",
+  "metrics": {
+    "episodes": 144,
+    "independent_geometries": 48,
+    "successes": 144,
+    "success_rate": 1.0,
+    "balanced_success": 1.0,
+    "contact_successes": 144,
+    "balanced_contact": 1.0,
+    "wrong_colors": 0,
+    "collision_episodes": 0,
+    "mean_steps_all": 77.02083333333333,
+    "mean_success_steps": 77.02083333333333,
+    "mean_close_XY_error_m": 0.010015933857603144
+  },
+  "all_checkpoints": {
+    "B3_s49_step1500": {
+      "episodes": 144,
+      "independent_geometries": 48,
+      "successes": 144,
+      "success_rate": 1.0,
+      "balanced_success": 1.0,
+      "contact_successes": 144,
+      "balanced_contact": 1.0,
+      "wrong_colors": 0,
+      "collision_episodes": 0,
+      "mean_steps_all": 77.02083333333333,
+      "mean_success_steps": 77.02083333333333,
+      "mean_close_XY_error_m": 0.010015933857603144
+    },
+    "B3_s49_step3000": {
+      "episodes": 144,
+      "independent_geometries": 48,
+      "successes": 144,
+      "success_rate": 1.0,
+      "balanced_success": 1.0,
+      "contact_successes": 142,
+      "balanced_contact": 0.9784313725490197,
+      "wrong_colors": 0,
+      "collision_episodes": 2,
+      "mean_steps_all": 76.625,
+      "mean_success_steps": 76.625,
+      "mean_close_XY_error_m": 0.010773066899348075
+    },
+    "B3_s49_step4500": {
+      "episodes": 144,
+      "independent_geometries": 48,
+      "successes": 144,
+      "success_rate": 1.0,
+      "balanced_success": 1.0,
+      "contact_successes": 143,
+      "balanced_contact": 0.9950980392156863,
+      "wrong_colors": 0,
+      "collision_episodes": 1,
+      "mean_steps_all": 76.47222222222223,
+      "mean_success_steps": 76.47222222222223,
+      "mean_close_XY_error_m": 0.010517282586864777
+    },
+    "B3_s49_step6000": {
+      "episodes": 144,
+      "independent_geometries": 48,
+      "successes": 144,
+      "success_rate": 1.0,
+      "balanced_success": 1.0,
+      "contact_successes": 143,
+      "balanced_contact": 0.9950980392156863,
+      "wrong_colors": 0,
+      "collision_episodes": 1,
+      "mean_steps_all": 76.56944444444444,
+      "mean_success_steps": 76.56944444444444,
+      "mean_close_XY_error_m": 0.010758929683342685
+    }
+  },
+  "policy_path": "experiments/colorlift_repro_confirm_v1/models/B3_s49/policy.pt",
+  "sha256": "bfefdc12f4f6358320dc3fd97c236f3db7a058747f584cf67c344c7b71742743",
+  "selected_at_UTC": "2026-10-31T04:03:30.344157+00:00",
+  "selection_used": "original48-layout development only",
+  "fresh_cohort_read": false,
+  "old768_used": false
+}

@@ -1,0 +1,1054 @@
+{
+  "created_at_UTC": "2026-11-01T08:18:03.265924+00:00",
+  "kind": "source_environment",
+  "files": {
+    "environment_records/conda_environment_20261101.yml": {
+      "bytes": 2874,
+      "sha256": "99154c71e7c96860d6f417d08380d6d17665b55f3925d30d9d9a0d01a753facc"
+    },
+    "environment_records/conda_explicit_linux_20261101.txt": {
+      "bytes": 3285,
+      "sha256": "f73079ccd60dc2463db1fd89a3a7e3ef9174bed0162901ab6022647347c2ad73"
+    },
+    "environment_records/pip_freeze_20261101.txt": {
+      "bytes": 5733,
+      "sha256": "ff8e295aeff057c2556f3b80753ec68c962c6c55dcb32fd108ab599cc45f0f6c"
+    },
+    "environment_records/runtime_versions.json": {
+      "bytes": 415,
+      "sha256": "8690e3b3aa84fb8d0946d8fc504f6ff5e4498c6853737e62f50e6c37fd984aea"
+    },
+    "preservation_tools/archive_b3_server_20261101.py": {
+      "bytes": 11172,
+      "sha256": "2f15648d044f757b7cdeb23e4d751e1cd16644374cac617bb4fbcc62a87f9be8"
+    },
+    "workspace/COLORLIFT.zh-CN.md": {
+      "bytes": 16197,
+      "sha256": "b1c7a9d71983559b4a1051e5a9fb7f2f6c79fcb0f6ead3cf3e263cb0794730f7"
+    },
+    "workspace/CUBE_ACT.zh-CN.md": {
+      "bytes": 4657,
+      "sha256": "027caec286b1fdf5344507c74377070a88cbbed1e78e440163c5b09735007bc1"
+    },
+    "workspace/README.zh-CN.md": {
+      "bytes": 5822,
+      "sha256": "c8be407e2b7b33455a5d6d75032f9537a623f92e407fe945ce465ee363516348"
+    },
+    "workspace/SPATIAL_CURRICULUM.zh-CN.md": {
+      "bytes": 3276,
+      "sha256": "1d31ca7ef5f4e0b49bf011084f986f0a2a269c43c20988874d92791e27a9da9c"
+    },
+    "workspace/T_BLOCK.zh-CN.md": {
+      "bytes": 5901,
+      "sha256": "ab81740c56cdbf06c12a125f9073137abe0783e9c506dff4fa88731a9da8e50f"
+    },
+    "workspace/activate.sh": {
+      "bytes": 181,
+      "sha256": "86aaea174cbf2dfa2ae63bed0e0f85b2b2807136f1a64b5a2a9d7be1280dd9ba"
+    },
+    "workspace/catlab_assets/__init__.py": {
+      "bytes": 149,
+      "sha256": "399d550222cf6bbf7357ef543a551469ec6ede40780e6f6117d4168598ce124b"
+    },
+    "workspace/catlab_assets/assets/objects/cube.xml": {
+      "bytes": 753,
+      "sha256": "8982b67ff4a30d68a1a33052e562a51f1e75564f3fd2f69641a2c6d3611e356b"
+    },
+    "workspace/catlab_assets/assets/objects/t_block.xml": {
+      "bytes": 1804,
+      "sha256": "5fcc7fbca13ed281fa5a2f5268b2f782077d050d13aca545e1e9df8e07c78cfb"
+    },
+    "workspace/catlab_assets/cube.py": {
+      "bytes": 1932,
+      "sha256": "cb813669ead68de05dc804dabe1db4d114ff9ebe6fb2426834799ac831b66b13"
+    },
+    "workspace/catlab_assets/preview.py": {
+      "bytes": 2714,
+      "sha256": "e98228d4e7855ef79ed702c9f76e0ec7a3daf17f45fcf8c6e321dc61a18887e6"
+    },
+    "workspace/catlab_assets/t_block.py": {
+      "bytes": 5153,
+      "sha256": "a49ce7b436963ef152af4ee91593d1e531368aa273d365261ab3746e5eeb7d8a"
+    },
+    "workspace/catlab_assets/verify.py": {
+      "bytes": 9794,
+      "sha256": "76b45c48eea8482e5e45c85565e25eaf48b8f23365e6ac76bb881f728a0ada7e"
+    },
+    "workspace/colorlift/__init__.py": {
+      "bytes": 266,
+      "sha256": "f60eabcfff23f5a86676bba223d7e17d6dde57187acf584ecbafa5451ba8d044"
+    },
+    "workspace/colorlift/aggregate.py": {
+      "bytes": 1519,
+      "sha256": "bed52c140b981309555d19bb6e6fc2b8dfcb858f6120e48a618e7ed2d932ec46"
+    },
+    "workspace/colorlift/broad_act/__init__.py": {
+      "bytes": 86,
+      "sha256": "b3df202331f863f6d52acbeb49b839e0b56ca05eefe2c22d1c19c9cab3f069ba"
+    },
+    "workspace/colorlift/broad_act/audit_round.py": {
+      "bytes": 2875,
+      "sha256": "3c1732c9ce726748392efaa9b2d89136538a06ce14eda0d9f89e583dec4ecfcb"
+    },
+    "workspace/colorlift/broad_act/calibrate.py": {
+      "bytes": 2648,
+      "sha256": "dc7e9a463507bd74dc0a7e7f9c1a0a49a25b2e7d2796c26bc06beaea2bc6eaa7"
+    },
+    "workspace/colorlift/broad_act/data.py": {
+      "bytes": 13084,
+      "sha256": "c72f25127847b6b333ce738880acff1374d6d3ae767555e6ec51a40c8377a8fc"
+    },
+    "workspace/colorlift/broad_act/evaluate.py": {
+      "bytes": 7565,
+      "sha256": "516c7df94ba2c03bff533fb2da5e8650ad18bf0b9115b61b1b755333a84ede4d"
+    },
+    "workspace/colorlift/broad_act/guard_restart.py": {
+      "bytes": 2175,
+      "sha256": "a882f1be2a1925bd0caf055225990c394b940c6d7c56b9d852a5007b5393d3d3"
+    },
+    "workspace/colorlift/broad_act/inspect.py": {
+      "bytes": 1318,
+      "sha256": "bd293aabeb67396f3be8a64e1e021d227ffc3c18d07dbfd3db310534e6f04e99"
+    },
+    "workspace/colorlift/broad_act/model.py": {
+      "bytes": 3251,
+      "sha256": "ff6bf446f3c6ec9147fecfba78864d1a168093dea36eceae29fff8b88bdf99bc"
+    },
+    "workspace/colorlift/broad_act/pipeline.py": {
+      "bytes": 6721,
+      "sha256": "8eea536a08471704c5b175200bb88f299eac7996c1a51e70bb72d031a8cff5dc"
+    },
+    "workspace/colorlift/broad_act/progress.py": {
+      "bytes": 1205,
+      "sha256": "7fd132bab212c69f9e5d67225f60920ce45610e2253c598ae16ea4cd6b680410"
+    },
+    "workspace/colorlift/broad_act/progress_export.py": {
+      "bytes": 2853,
+      "sha256": "e828bffff92d1e1c656eb48cdfa4a5a93af0ccbee0f925fb999bea5d6d1d962d"
+    },
+    "workspace/colorlift/broad_act/results.py": {
+      "bytes": 24918,
+      "sha256": "c63c9ff317021524220e3f21ffa635a6afb9f1d13cf7a2548a5202a7d8e60895"
+    },
+    "workspace/colorlift/broad_act/runtime.py": {
+      "bytes": 8322,
+      "sha256": "c694e45691f8ce52740f668b200f0d8535c3d6ffe332fc0b1c5ba4e37f18a520"
+    },
+    "workspace/colorlift/broad_act/safety_collect.py": {
+      "bytes": 10262,
+      "sha256": "ec75e0a000ea424042507d0049bbb0acab606ea594248a4495ed67a2bedabcec"
+    },
+    "workspace/colorlift/broad_act/safety_data.py": {
+      "bytes": 6373,
+      "sha256": "efd49903dec54b680f3e79a30a85370b120fac505254414ba0b2ce35f1ebebdc"
+    },
+    "workspace/colorlift/broad_act/select_safety.py": {
+      "bytes": 1207,
+      "sha256": "12bfcae74fd74db4b86acbaa259b0e8979bbe8a6c9966da1e6a2783ff43883e1"
+    },
+    "workspace/colorlift/broad_act/smoke.py": {
+      "bytes": 1957,
+      "sha256": "db426514abaff3fbee3761d5de5d10b1eb1ccb1abd208600f663ab3870aa0c55"
+    },
+    "workspace/colorlift/broad_act/spec.py": {
+      "bytes": 5730,
+      "sha256": "d1f7a73d36a9d508d9bfa419f9468c3de94b545eae12014e4509c7c403e09687"
+    },
+    "workspace/colorlift/broad_act/stage1.py": {
+      "bytes": 2573,
+      "sha256": "1bb60c21560109f0c30dad73d3305c79d17ff2f8eff07f0db2fac806aaad46de"
+    },
+    "workspace/colorlift/broad_act/train.py": {
+      "bytes": 6512,
+      "sha256": "6d09a084e2ca39b386992073aee79e19df029a71fda90b42954c41f1da106e10"
+    },
+    "workspace/colorlift/broad_v2/__init__.py": {
+      "bytes": 86,
+      "sha256": "16904c00b7145d2d51b9b7cc62d75e9c7632e088f25e95e07a0d0fb19273be67"
+    },
+    "workspace/colorlift/broad_v2/align_supervision.py": {
+      "bytes": 4052,
+      "sha256": "f1b76f01d37907eafa8aeb4a9f52e7eaa05306d2755c6507d5f6b5dc869fc46d"
+    },
+    "workspace/colorlift/broad_v2/alignment_diagnose.py": {
+      "bytes": 1684,
+      "sha256": "9211ec30e1c3ec80648f67545f0ca158353581caf460bc41cc9a733a6e90a96f"
+    },
+    "workspace/colorlift/broad_v2/audit.py": {
+      "bytes": 7909,
+      "sha256": "efae1574f5b57481953bdf0f590d35f8bfeff9b07941703334b7c5fcc755e9b4"
+    },
+    "workspace/colorlift/broad_v2/audit_supervised.py": {
+      "bytes": 9375,
+      "sha256": "587603b17048d9f8cd7a2f2b53f212e1e2ea8b60194d83c3ec6ebc6fb633924a"
+    },
+    "workspace/colorlift/broad_v2/conditional_proposals.py": {
+      "bytes": 1261,
+      "sha256": "5019475edfbb46a65751380553f8c97bed80b3cf512e1726783d67811348c8d8"
+    },
+    "workspace/colorlift/broad_v2/data_contract.py": {
+      "bytes": 2894,
+      "sha256": "3705112ae1afc0d89cf14e2f48b45b93ab95ac7664db25b4b7245ff2c1c636e8"
+    },
+    "workspace/colorlift/broad_v2/develop.py": {
+      "bytes": 9863,
+      "sha256": "2b7c68edd7a193c3a3d98033155aebd6b86b8ba5ffafe8daf57f1044b3cbd6da"
+    },
+    "workspace/colorlift/broad_v2/diagnose.py": {
+      "bytes": 3796,
+      "sha256": "d8fb28a3027a931c7d5c64a580b93e83fd541d17368c4de8066c0be026089f1a"
+    },
+    "workspace/colorlift/broad_v2/expedite.py": {
+      "bytes": 2276,
+      "sha256": "e616988e6e474fc240964f0b58f57c267488a09c36a5dadeab3c3b9e78b4034e"
+    },
+    "workspace/colorlift/broad_v2/finish.py": {
+      "bytes": 1092,
+      "sha256": "d9b83cbe63333756fe897c5f4505ba964ed0489acf65f88e178f08761ffb7f7c"
+    },
+    "workspace/colorlift/broad_v2/freeze.py": {
+      "bytes": 7582,
+      "sha256": "e589df39bf107496e289883af3cc39afde36371df763c6aab291728c26fb0ec3"
+    },
+    "workspace/colorlift/broad_v2/generate.py": {
+      "bytes": 12546,
+      "sha256": "713f52abd3088e8885cdef56ad79863d5d18daea3f658167ddddcf43b40d33c2"
+    },
+    "workspace/colorlift/broad_v2/initialization_policy.py": {
+      "bytes": 1955,
+      "sha256": "67d2e52d6958e519e09feb60085c6362e6957b674d8a3a81ac77f366e8aaf3ee"
+    },
+    "workspace/colorlift/broad_v2/inspect_partial.py": {
+      "bytes": 1558,
+      "sha256": "8ec112cd11c79dc58ee7501af5458473dd1e53ad0afadb75028d379a6f7fb938"
+    },
+    "workspace/colorlift/broad_v2/label_inventory.py": {
+      "bytes": 1508,
+      "sha256": "369ddec02f666321f90547ae8e4cae865105b37e18aed4b36bad93b5e6d618bd"
+    },
+    "workspace/colorlift/broad_v2/layouts.py": {
+      "bytes": 6457,
+      "sha256": "fc9a8e7dae37053e5cebc9eb96083ae99f44a9f0ef9fffbf2a4941b9af4c2896"
+    },
+    "workspace/colorlift/broad_v2/motion_metrics.py": {
+      "bytes": 3380,
+      "sha256": "24bd29fb12c8d9a7286982da87c7e8380ad042d81b9aa82a2421cd9af6412e66"
+    },
+    "workspace/colorlift/broad_v2/package.py": {
+      "bytes": 3466,
+      "sha256": "3dee023c603c0282d06820a63f37894b020495bd90ffd870fd04c35eca9f8e38"
+    },
+    "workspace/colorlift/broad_v2/pilot.py": {
+      "bytes": 701,
+      "sha256": "2451931bcd50b2402b0cb6601df8b194656626f9553f347ba85b2c047b6a42c8"
+    },
+    "workspace/colorlift/broad_v2/preflight.py": {
+      "bytes": 1671,
+      "sha256": "0bc82fd74c59052773fd38348843a7aebfff73b82cc9eeb55bb2a69aca0665a2"
+    },
+    "workspace/colorlift/broad_v2/preseal.py": {
+      "bytes": 1248,
+      "sha256": "6d0e007ea78a85d111e79a13de0f83912cb0b3247fb2951130492fa4ac70709a"
+    },
+    "workspace/colorlift/broad_v2/preview.py": {
+      "bytes": 2017,
+      "sha256": "4b262c821a66f76cca5623c40c4687ead8499d989d695ff54cc9b4f011d91105"
+    },
+    "workspace/colorlift/broad_v2/report.py": {
+      "bytes": 20274,
+      "sha256": "2daab06e26a143a85fe1b789af24349ef630f1438da1d25dfb51986ed96f0bca"
+    },
+    "workspace/colorlift/broad_v2/rollout.py": {
+      "bytes": 9825,
+      "sha256": "06bf9b8bee775d01f2a3737fc49be64f363bc48fc55f7b71a86d8ce6efcda1da"
+    },
+    "workspace/colorlift/broad_v2/spec.py": {
+      "bytes": 3317,
+      "sha256": "acfb9080f8a691f24620410b49d1a5bd0aa08c2233ac13640f2287729ad69832"
+    },
+    "workspace/colorlift/broad_v2/support_preflight.py": {
+      "bytes": 2650,
+      "sha256": "dabcbf50ba242f882c50cf9599ac4740ddca5dcf1d60b69a39920bd40b6c4489"
+    },
+    "workspace/colorlift/broad_v2/validity.py": {
+      "bytes": 13482,
+      "sha256": "950b4ced783e1e7f160812f3932990413aa180ea5d6654ac05751e679ca18e0d"
+    },
+    "workspace/colorlift/collect.py": {
+      "bytes": 7084,
+      "sha256": "d91905f3fe2ad6c16fc4e426220a2a27fcc95ec4fe7d3f9d98dbc99ce67adf76"
+    },
+    "workspace/colorlift/conditional.py": {
+      "bytes": 9199,
+      "sha256": "0dbe37a50f8c114a83f030c5b56b96ee747b511f940ee9110e71df3c8e0f8233"
+    },
+    "workspace/colorlift/conditional_audit.py": {
+      "bytes": 4385,
+      "sha256": "2630a6b92075605fd6dbec79eb943cdba1b7d2195bf9a812e9d8526fef867d70"
+    },
+    "workspace/colorlift/conditional_collect.py": {
+      "bytes": 2227,
+      "sha256": "b512abd00ea13a876c100724a1b12ace1d57e7c9bb0f314ebbef48ad3c392e77"
+    },
+    "workspace/colorlift/conditional_demo.py": {
+      "bytes": 1370,
+      "sha256": "7d97ce3447d91b3d77fc7ca70c99721238c5b5d525db1ebf0ab58a633e1178d2"
+    },
+    "workspace/colorlift/conditional_evaluate.py": {
+      "bytes": 15311,
+      "sha256": "17d668d0179d5990841d1573c0ad97855eeddccf6f326475c04f0858becd1e2f"
+    },
+    "workspace/colorlift/conditional_final.py": {
+      "bytes": 2462,
+      "sha256": "0ae390fba29f4c73c9c2393e6b0bc506614d30de9170302668fdec59d060d0bb"
+    },
+    "workspace/colorlift/conditional_package.py": {
+      "bytes": 3341,
+      "sha256": "a7d4838dca911bf55b9514c70df4c67e50e28373dc4f3ecb228bfe0dca033938"
+    },
+    "workspace/colorlift/conditional_pipeline.py": {
+      "bytes": 1767,
+      "sha256": "f85154754b3974ac2423cdd92953fc0ed91fbfaaec3d5ef561c41023c22ce49f"
+    },
+    "workspace/colorlift/conditional_probe.py": {
+      "bytes": 2632,
+      "sha256": "11ece0a3d822aa8612f39698406a6bae9742a1bdcc6384fc2154fcd80a1b8397"
+    },
+    "workspace/colorlift/conditional_report.py": {
+      "bytes": 17125,
+      "sha256": "02f7aaf0c86040a92334625c107a8e22d63629c745c544b9b43b2473c3b69385"
+    },
+    "workspace/colorlift/conditional_train.py": {
+      "bytes": 9010,
+      "sha256": "26bc99f3d0e5c0ab3fccb478556d2fea5b5a5ea34325a3317df58d06bc1f3867"
+    },
+    "workspace/colorlift/conditional_verify.py": {
+      "bytes": 2521,
+      "sha256": "62ad529eca390102a0101e7083ceec0bf6928004d1c2e9a553660c2425189490"
+    },
+    "workspace/colorlift/config.py": {
+      "bytes": 2715,
+      "sha256": "ef423b30fa2760bd648dc874ec64a9dac58a14fd92c62b240499cd67cc44f54d"
+    },
+    "workspace/colorlift/data.py": {
+      "bytes": 2085,
+      "sha256": "139010793eb90ea8cfce61677e09869d5d9b4be95abc02656b61406f195215eb"
+    },
+    "workspace/colorlift/efficient_expert.py": {
+      "bytes": 5747,
+      "sha256": "e93a4aefa21eb9489c8c7fa52624671e548715c70647f7c83fdcb6c488e572c3"
+    },
+    "workspace/colorlift/env.py": {
+      "bytes": 15484,
+      "sha256": "2463ee252da3ceceedad01f99723bec7b79cbece70b47c8c9681c85db438c53f"
+    },
+    "workspace/colorlift/evaluate.py": {
+      "bytes": 10138,
+      "sha256": "680637aaa124540b308e4355eb31a7d729a704156df27881f39e57cda77beee7"
+    },
+    "workspace/colorlift/event_audit.py": {
+      "bytes": 7212,
+      "sha256": "eb52f6ef93c09e0b883b420dc8975ebce8de75b22bc5ed1fcedd2eb7646276e9"
+    },
+    "workspace/colorlift/event_control.py": {
+      "bytes": 8404,
+      "sha256": "9049c8b025df8bf7ca759beae2f01bb3c49804c811838145b2da4f0cc95e4eb4"
+    },
+    "workspace/colorlift/event_demo.py": {
+      "bytes": 1703,
+      "sha256": "e677904451e00eb16ccd1dc402c1007a49f49aad7a2e54020b5b998ccc2e4e28"
+    },
+    "workspace/colorlift/event_efficiency.py": {
+      "bytes": 16129,
+      "sha256": "435005397face4267dcf17e44e52f2a169d1a512bcd5b5d02e4478be6230ad7d"
+    },
+    "workspace/colorlift/event_labels.py": {
+      "bytes": 2058,
+      "sha256": "c4ab8b160deb61ae4fcb5af15271e6b7ccb8632f4316cd50f383d7257fdd216c"
+    },
+    "workspace/colorlift/event_launch.py": {
+      "bytes": 4159,
+      "sha256": "570285c777a5c7cf47aaf010eb70888617961abbcc144ee0e530c089f1a40370"
+    },
+    "workspace/colorlift/event_package.py": {
+      "bytes": 3408,
+      "sha256": "796f53b6bea563e628fb30203f1468feec3928659f7195b5aacf003f2625d04a"
+    },
+    "workspace/colorlift/event_pipeline.py": {
+      "bytes": 1541,
+      "sha256": "5bfe9db3e708e0e2050972d3c17a93b830a6160849f7831281513efb04209fad"
+    },
+    "workspace/colorlift/event_preflight.py": {
+      "bytes": 839,
+      "sha256": "118b0468126b90f51e3292c2a54902d9fb173c48a5d327f94000d8ba733818d6"
+    },
+    "workspace/colorlift/event_progress.py": {
+      "bytes": 1370,
+      "sha256": "ff045c9b3f4dbcd337eeca66398746df37a41f94d852ff226dc7fe545e164dab"
+    },
+    "workspace/colorlift/event_replay.py": {
+      "bytes": 6343,
+      "sha256": "5ee9c23001070396c842219efa21094405e2fd803e81bd9e486a6293b8e58bbb"
+    },
+    "workspace/colorlift/event_report.py": {
+      "bytes": 19020,
+      "sha256": "1bedb7f38fc8b1f1ac21c17fdab3a5ebf42f4f56f64624ebf5adfe064b48d44a"
+    },
+    "workspace/colorlift/event_results.py": {
+      "bytes": 8081,
+      "sha256": "a8ccc0d17eea4f334da814c0a5c199fff0c2c6b55e19f5de73215a5814c96ced"
+    },
+    "workspace/colorlift/model.py": {
+      "bytes": 2283,
+      "sha256": "a1f8598f66f29b0a9280ba139479188eb02b041a599e810a7975e6c9e5ef2e64"
+    },
+    "workspace/colorlift/primitives.py": {
+      "bytes": 10875,
+      "sha256": "b3afb5caa65fc64585f2c387e7bb48d4977f22fa44fef9e74de8238bdc413539"
+    },
+    "workspace/colorlift/recovery_analysis.py": {
+      "bytes": 6930,
+      "sha256": "c8b7caf3c21dbf10e2d2e460ed2e3d3581a371a7b16e624facd2d3ed2ee4c6a2"
+    },
+    "workspace/colorlift/recovery_audit.py": {
+      "bytes": 5477,
+      "sha256": "8f87975a68559f01a449ea2a49fbca91afb784c54784f6ef9b2807e168c556f5"
+    },
+    "workspace/colorlift/recovery_collect.py": {
+      "bytes": 3835,
+      "sha256": "1f7c4263cf92fdaf17c5562ab98c867b45a245cc65dc849784124a33e5791846"
+    },
+    "workspace/colorlift/recovery_control.py": {
+      "bytes": 3384,
+      "sha256": "a73c2caa55e781e4c7cbcf51b8ff1646c145f67991cd8c38bde77be749a75677"
+    },
+    "workspace/colorlift/recovery_data.py": {
+      "bytes": 5987,
+      "sha256": "acf89260d4e5a1b4c8b20139005a32f3538543f8de918fea8d19b48c08a3470e"
+    },
+    "workspace/colorlift/recovery_debug.py": {
+      "bytes": 2085,
+      "sha256": "aa5f05ce43daab61d10fce27e377192ca1f6e1ac843fda4675b69ad76fdc2173"
+    },
+    "workspace/colorlift/recovery_demo.py": {
+      "bytes": 1642,
+      "sha256": "ebeceb3d32af2acfae2eec4e59d63deb793cb9d9940fc4d1534cb72f7e5f02fa"
+    },
+    "workspace/colorlift/recovery_development.py": {
+      "bytes": 1175,
+      "sha256": "ca0d653a347ba2d6668b720c7d64b8713754c0f06a4000e84a49c8b85fea9647"
+    },
+    "workspace/colorlift/recovery_evaluate.py": {
+      "bytes": 10173,
+      "sha256": "3043be886a857369b91b6177007bd0e4382708c59878c41461ad752777187252"
+    },
+    "workspace/colorlift/recovery_expert.py": {
+      "bytes": 11219,
+      "sha256": "f6487c39eb24de40912b1763ba36b430b45c8c3c79752aaa9edf382bf5fff12f"
+    },
+    "workspace/colorlift/recovery_final.py": {
+      "bytes": 2053,
+      "sha256": "1eff4a8129b6e81256b79b71bf08f2313f1cd8fe52acd85e5fd1322a844ae57f"
+    },
+    "workspace/colorlift/recovery_labels.py": {
+      "bytes": 1925,
+      "sha256": "b8297ea2b4b3c09b1f59a41aa7e352655c374089c9ae7d4c4004769d3aabbffb"
+    },
+    "workspace/colorlift/recovery_package.py": {
+      "bytes": 3289,
+      "sha256": "ab1d297ff85d188cccd57ccf030848e16a9b6071c1fa08f38b0280af926939e1"
+    },
+    "workspace/colorlift/recovery_pipeline.py": {
+      "bytes": 1364,
+      "sha256": "05b2de983c7cb36f39f113227d32f688a78651dc460e88bd4749c8967c349127"
+    },
+    "workspace/colorlift/recovery_probe.py": {
+      "bytes": 2869,
+      "sha256": "37ac9adcf1b3bf3867c69ae131cb44cb4ec0434c2eb447874e16ef078bf4ed52"
+    },
+    "workspace/colorlift/recovery_progress.py": {
+      "bytes": 808,
+      "sha256": "ce144100664f54a18ad0425cd8a896c1df93594186cf4f16b2a77f7cb0bc2007"
+    },
+    "workspace/colorlift/recovery_report.py": {
+      "bytes": 18660,
+      "sha256": "0da2756379deb2c7ecf553283317b42ee9551f8cb63e5af4a75d145aad0a6dcf"
+    },
+    "workspace/colorlift/recovery_results.py": {
+      "bytes": 6565,
+      "sha256": "5e321aaf75e3f9534871e37b6fb5b24d367c6be4b34d7f01681e3ae85aa2afa8"
+    },
+    "workspace/colorlift/recovery_sweep.py": {
+      "bytes": 2462,
+      "sha256": "1d149c4a79179107c56e4ca60204e8b15905aea2db4f63bb9e51c6a2f9f4a350"
+    },
+    "workspace/colorlift/recovery_train.py": {
+      "bytes": 6386,
+      "sha256": "efd3a066f4392bf4be135d6afe82a8c68da26e69984aa4d4ba9cffdaa1ca95fd"
+    },
+    "workspace/colorlift/report.py": {
+      "bytes": 15925,
+      "sha256": "2f9b79df8f397eca015be2d819d994a48e4183319d3b7653bf61cfeb246f5c71"
+    },
+    "workspace/colorlift/repro_confirm/__init__.py": {
+      "bytes": 71,
+      "sha256": "9ed9dce05cd8a9a108504883cd7751cf4b248269f43a326a0c4f629037eba63d"
+    },
+    "workspace/colorlift/repro_confirm/evaluate.py": {
+      "bytes": 6263,
+      "sha256": "4076a6af0ce2a9d74b75a7074d59b0e875258201a7c549fcf49185df7b3bc5c4"
+    },
+    "workspace/colorlift/repro_confirm/pipeline.py": {
+      "bytes": 5034,
+      "sha256": "f1515be92e8a770d33abad1dd4bb7a561ea5038571d8085d9bcbcc62faba63c8"
+    },
+    "workspace/colorlift/repro_confirm/prepare.py": {
+      "bytes": 5989,
+      "sha256": "a6fe8ff46615e197c339952f59f182a0329a5ce3f4c3a02dc59037a166d2340e"
+    },
+    "workspace/colorlift/repro_confirm/progress.py": {
+      "bytes": 1811,
+      "sha256": "7abf6385260abae7ef5b593eb1676eb6f2043dbfb98e82ce104c02678fde6aa2"
+    },
+    "workspace/colorlift/repro_confirm/results.py": {
+      "bytes": 11218,
+      "sha256": "65a4f4672fd7937a45836e3ee1dd0a6e10cee9ba2be77bfdddd1a3cdc3a5542e"
+    },
+    "workspace/colorlift/repro_confirm/runtime.py": {
+      "bytes": 2448,
+      "sha256": "d182c762be4376ac080bca276a324be49e868838195e44f26fa89cb3fde1eb7e"
+    },
+    "workspace/colorlift/repro_confirm/seal.py": {
+      "bytes": 12476,
+      "sha256": "8029d70803de47aef21440c06e4aaea1c9514affc39529de9b6b6b3dc97d4b15"
+    },
+    "workspace/colorlift/repro_confirm/smoke.py": {
+      "bytes": 2220,
+      "sha256": "9a080e8d359ac0a1b6a362fe5fc8accf3a0267d15ba8f39e5641ed7b82aadf3d"
+    },
+    "workspace/colorlift/repro_confirm/spec.py": {
+      "bytes": 3494,
+      "sha256": "52b0538597b682dbb1feab790face4ee3f276e39c7f232809a677536d0214189"
+    },
+    "workspace/colorlift/repro_confirm/statistics.py": {
+      "bytes": 13926,
+      "sha256": "f1f40ecf02163631d65d9f25e86c8eec4a8adbc72a65b1f84ae7a7505822c01a"
+    },
+    "workspace/colorlift/repro_confirm/train.py": {
+      "bytes": 1233,
+      "sha256": "065b3d113f9db5d98edca3c50ccea3703bdb42ba30855df230b8745fb997eee5"
+    },
+    "workspace/colorlift/run.py": {
+      "bytes": 4764,
+      "sha256": "b356cc5c11c956b839d9b7096e464a0a5853820c6e1e0e63e06e65b7af08ce9e"
+    },
+    "workspace/colorlift/short_report.py": {
+      "bytes": 26137,
+      "sha256": "e10aab95ce19b3ad9e7133fce98a9dba8f7d74301eb474ddaf56c99a4032103c"
+    },
+    "workspace/colorlift/short_trajectories.py": {
+      "bytes": 10708,
+      "sha256": "b6779e0e17e10be1ac4d0539089968eea221a7567d871688c8aec345e8101c0b"
+    },
+    "workspace/colorlift/smoke_model.py": {
+      "bytes": 1585,
+      "sha256": "79294eaa53e74e8b4411266621296d0bd98ca470e1db921407d104320eb79146"
+    },
+    "workspace/colorlift/spatial_audit.py": {
+      "bytes": 8291,
+      "sha256": "646a0396fc014b43b3b97d4f2dd1064d009a0b25c1b46a9f3958c08e8d9c4a53"
+    },
+    "workspace/colorlift/spatial_clarify.py": {
+      "bytes": 17609,
+      "sha256": "c32fb003679bbda4ab4a312ffe5d8bc69935d8f43b2619c6b625419fb7aeef7f"
+    },
+    "workspace/colorlift/spatial_collect.py": {
+      "bytes": 8540,
+      "sha256": "fc3cbfc74455419e9c340480e4be9ebfed246b2b98cf031e1efa469de70d6192"
+    },
+    "workspace/colorlift/spatial_data.py": {
+      "bytes": 6708,
+      "sha256": "fb6b1ffd063c401893ea18163392bb9e67e425b11daa787104bc9c3ab87c38d1"
+    },
+    "workspace/colorlift/spatial_demo.py": {
+      "bytes": 1884,
+      "sha256": "5499aa14f98d329331d52d2d5d73824cb9ddd6f4684c8ca7bb50cce1f5803ced"
+    },
+    "workspace/colorlift/spatial_env.py": {
+      "bytes": 5880,
+      "sha256": "41b3faef04517b3066d3313760e6b9881c129288e17ba6e1032b222f614eb1c9"
+    },
+    "workspace/colorlift/spatial_evaluate.py": {
+      "bytes": 8768,
+      "sha256": "2f0c683b912bf8087f37fe7683aa84b6752f380efea4961004b7fbc1b102ed3f"
+    },
+    "workspace/colorlift/spatial_finish.py": {
+      "bytes": 1587,
+      "sha256": "6d2897dc7f5b4c3919b58bb77a732d2d8bac2d23bdf0d955d8d8ec477220e27c"
+    },
+    "workspace/colorlift/spatial_gate.py": {
+      "bytes": 10525,
+      "sha256": "107876f2f70cca42edcc349bc32c19063855cacf25bb92e393d5246aff2fe36e"
+    },
+    "workspace/colorlift/spatial_layouts.py": {
+      "bytes": 5645,
+      "sha256": "91c340327a1b97f215c5ea69fb55aacf24615c58a881cc62b7d0ec255fecd161"
+    },
+    "workspace/colorlift/spatial_numeric_retest.py": {
+      "bytes": 2053,
+      "sha256": "517cad76cf8a5192d14538e2e18c853db259f4d8db1ef8968bd5490de9e9298e"
+    },
+    "workspace/colorlift/spatial_package.py": {
+      "bytes": 5644,
+      "sha256": "116283bd4dcbdb4337dcf2e9e9b3b1c91440a1a990e67c48c849a93c61aca971"
+    },
+    "workspace/colorlift/spatial_pipeline.py": {
+      "bytes": 4274,
+      "sha256": "cd0c2b3de0971069cf7a7dd4ab54c73d8d5c2214d0c243aeb2c2eda0a5178e07"
+    },
+    "workspace/colorlift/spatial_preflight.py": {
+      "bytes": 2853,
+      "sha256": "63dd837ffbce05a0127bb435023115750de5cae039b0e476ce5ded1218dd319b"
+    },
+    "workspace/colorlift/spatial_progress.py": {
+      "bytes": 3318,
+      "sha256": "673b5092ab073abb5969d18645f63cc15cb5c218310eaccfcdc81eea4fad5735"
+    },
+    "workspace/colorlift/spatial_protocol.py": {
+      "bytes": 2960,
+      "sha256": "d61fa63b778f3deda053aa2332da3a8578e5423a85a58e6a135e22c992071bc2"
+    },
+    "workspace/colorlift/spatial_render_check.py": {
+      "bytes": 1880,
+      "sha256": "c82101d32d27eaf8bb2b9e7d16de861a84a691824356f5851d62dc53386554ee"
+    },
+    "workspace/colorlift/spatial_replay.py": {
+      "bytes": 7255,
+      "sha256": "fc3f9d1f6132e59d803869e77d161a872a2fc19b30bd0503e46c2fc89a1db7d6"
+    },
+    "workspace/colorlift/spatial_report.py": {
+      "bytes": 21792,
+      "sha256": "61122d898eff02db67d0e2347eab3b0dd3ea5560a0c7cfc092a45bb26e94f9f9"
+    },
+    "workspace/colorlift/spatial_reset_diagnose.py": {
+      "bytes": 3608,
+      "sha256": "54a4a70b3a89087325b93003a404988553043bce721ebc038636d1f34ad1f076"
+    },
+    "workspace/colorlift/spatial_results.py": {
+      "bytes": 9165,
+      "sha256": "10da16c7bb1145505478eb46f48d17ff95641d80074005c6880e2a84e86fd922"
+    },
+    "workspace/colorlift/spatial_rollout.py": {
+      "bytes": 7986,
+      "sha256": "b6985bf77beba044613d5398440efcd4add0af26b1462b0c8fe4276888bcbea1"
+    },
+    "workspace/colorlift/spatial_train.py": {
+      "bytes": 5937,
+      "sha256": "33d0441af55dbc084796260d50ff87f7c10d07eba2d4138d86b667bf6731b437"
+    },
+    "workspace/colorlift/step_recording.py": {
+      "bytes": 6912,
+      "sha256": "6da69861d387d1eb5541c40e7fe31971860aab3c59f439b149bf0ffd0cfd5933"
+    },
+    "workspace/colorlift/train.py": {
+      "bytes": 7219,
+      "sha256": "960c44e38365547a773a6a438f75db1f24afea55883411ed885228f14237f94d"
+    },
+    "workspace/colorlift/verify.py": {
+      "bytes": 4957,
+      "sha256": "1b50603088bbc96588a4a5459b8f6d9b8e0d0cc5e4e50a02c5fd0cb1b6dbff7a"
+    },
+    "workspace/colorlift/verify_diagnostics.py": {
+      "bytes": 2622,
+      "sha256": "c0dd57f5975c3373189e6274ba15c2b7d9862e7bcd1e35d085093939dec31b5e"
+    },
+    "workspace/colorlift/vision.py": {
+      "bytes": 3145,
+      "sha256": "75b19de490b217b6de79bd03042dec4a56993abce05826cdf03a9a113b8e646e"
+    },
+    "workspace/conda-history.yml": {
+      "bytes": 177,
+      "sha256": "63a1d2fbb25376e41e795f4dbfee9d452535e6cf1f421e11f7619391608d1c2a"
+    },
+    "workspace/environment.yml": {
+      "bytes": 1862,
+      "sha256": "0d2ff2b45005d1ef2585b9f9f2a0e4908bca06bb64db927de48e479e4878a587"
+    },
+    "workspace/lift_act/__init__.py": {
+      "bytes": 82,
+      "sha256": "15a27eecbfcaf489a40e7d62417c2539f8231558bc21e11fc312536b8bc1f9cd"
+    },
+    "workspace/lift_act/collect.py": {
+      "bytes": 4341,
+      "sha256": "5ec0bd4ce02b019ab6556fa77731e55d384eb2fd2fbed924cc7d16629f06289a"
+    },
+    "workspace/lift_act/data.py": {
+      "bytes": 1913,
+      "sha256": "99b85162edbb397fff748af27f2b5c2f4c87c296794e0428cfcb76f008d4b03b"
+    },
+    "workspace/lift_act/env.py": {
+      "bytes": 3501,
+      "sha256": "e0f7045fbefc0ddcc8707b79a5cc1477c01dff8e0c056981b12313fbf1a9c321"
+    },
+    "workspace/lift_act/evaluate.py": {
+      "bytes": 5818,
+      "sha256": "2c28972e407985463c1e5f9cc34d8b46af82b78cfd02533bacafb2396a9a0678"
+    },
+    "workspace/lift_act/export.py": {
+      "bytes": 869,
+      "sha256": "55b08385c570b92493202d546d1d828837330708449d38732d2d980d04abbb23"
+    },
+    "workspace/lift_act/model.py": {
+      "bytes": 2240,
+      "sha256": "6776fdee86406387dc36acf67745b35b501490b7c862e85bfd26a08b304661ff"
+    },
+    "workspace/lift_act/protocol.json": {
+      "bytes": 1378,
+      "sha256": "596892055730e90fc270fd198be3ac18d1bb831f81f2857f3df2932afd235269"
+    },
+    "workspace/lift_act/report.py": {
+      "bytes": 8757,
+      "sha256": "1b798870b1ebb79566b5a44443be0fbc9b947fe139a0e7ff26b9061fdd8ae50c"
+    },
+    "workspace/lift_act/smoke_model.py": {
+      "bytes": 1535,
+      "sha256": "40bf76a9994e322cc8f6937c45fcfe420abd2e8834db30d21ee1904490243ce8"
+    },
+    "workspace/lift_act/train.py": {
+      "bytes": 5903,
+      "sha256": "4d212bf53ccdf10c5ea31c6f7f03ca62fdecb0b24620ee1b3c0982fd8ebad4ac"
+    },
+    "workspace/lift_act/verify_env.py": {
+      "bytes": 1742,
+      "sha256": "52b66d9fd3569add3d9b1ca1c31cdab7700217de6fd2dadd34b95fc31fdff2e1"
+    },
+    "workspace/pyproject.toml": {
+      "bytes": 532,
+      "sha256": "294c134e6d7ba79273330c9404171e822980e121d41e260b8aaab77945b762fe"
+    },
+    "workspace/requirements-act.txt": {
+      "bytes": 95,
+      "sha256": "be1b0bbc276cea1114bc7d9e9c85ed873775a675cdc7a6faff3c9b5e244a9114"
+    },
+    "workspace/requirements-assets.freeze.txt": {
+      "bytes": 603,
+      "sha256": "d05f5ff2ab318274cb354436c24c20e7231cfe3ef8bc9d784f7d8c3e57734a49"
+    },
+    "workspace/requirements-colorlift.freeze.txt": {
+      "bytes": 5733,
+      "sha256": "ff8e295aeff057c2556f3b80753ec68c962c6c55dcb32fd108ab599cc45f0f6c"
+    },
+    "workspace/requirements-training.freeze.txt": {
+      "bytes": 5733,
+      "sha256": "49f54203b94c2640eecd3a6cf9cef373c653cbb31288c63f8acea1d203d04b62"
+    },
+    "workspace/requirements.lock.txt": {
+      "bytes": 494,
+      "sha256": "89048d855b0e6a0e7007668ba82f90bbabd0b6b0c06273b119927d08dc826e83"
+    },
+    "workspace/requirements.txt": {
+      "bytes": 93,
+      "sha256": "21fe79bae0e759b4e9488176578dc5a19ce85a4527190e57d24171a16d22410f"
+    },
+    "workspace/run_lift_experiment.sh": {
+      "bytes": 911,
+      "sha256": "faec14234049deb8698730257888e6fe7de078470869a2878e7121adfdf50265"
+    },
+    "workspace/run_smoke_test.sh": {
+      "bytes": 230,
+      "sha256": "af34946df5ad32bcb58bd041d043c05c8222ce499511311104721a679e401d14"
+    },
+    "workspace/third_party/act-main.tar.gz": {
+      "bytes": 466491,
+      "sha256": "957821f8d738fc505adc52192d4f4f5dffe4951c94ea70847d09d9b122c67373"
+    },
+    "workspace/third_party/act-upstream-commit.json": {
+      "bytes": 5852,
+      "sha256": "595dd7cf5a789d8b6d6a5633b6ad9815700dd1311377596905635e6ba6c389a4"
+    },
+    "workspace/third_party/act/.gitignore": {
+      "bytes": 1867,
+      "sha256": "54f2130af7cebe70bfdf7598e0130240ad4fb2f73ecd070c3eca4144f268fa11"
+    },
+    "workspace/third_party/act/LICENSE": {
+      "bytes": 1069,
+      "sha256": "4666c312da313e6c46929f6695d06cf98a2e7359b9c7dcbb0ea232d01b32cd42"
+    },
+    "workspace/third_party/act/README.md": {
+      "bytes": 3500,
+      "sha256": "5059f601c1f0409556fd467150b99e93208de5d5594e9049f87ca92b24a5e7a2"
+    },
+    "workspace/third_party/act/assets/bimanual_viperx_ee_insertion.xml": {
+      "bytes": 3589,
+      "sha256": "4b06ed8281af253229db966d869729a3087245d555bce62755b23f62891f873b"
+    },
+    "workspace/third_party/act/assets/bimanual_viperx_ee_transfer_cube.xml": {
+      "bytes": 2313,
+      "sha256": "f206b36e128975685add6d73f7ae0d73b90e923d1c7f8a9f7b20fd996bd7d890"
+    },
+    "workspace/third_party/act/assets/bimanual_viperx_insertion.xml": {
+      "bytes": 4261,
+      "sha256": "5da2b62720aff42dbc741c76b810f22fbfd12a38c7a15f8f0a376fe235b8c31c"
+    },
+    "workspace/third_party/act/assets/bimanual_viperx_transfer_cube.xml": {
+      "bytes": 2985,
+      "sha256": "ff520a803d0de93661d84d0bdf20289401a63e57443b53bdb5b7ac41b27588f8"
+    },
+    "workspace/third_party/act/assets/scene.xml": {
+      "bytes": 1694,
+      "sha256": "7928fe2c986159493c71cc74d5ab4606fafa8b651805f98df40a26ef141afd9b"
+    },
+    "workspace/third_party/act/assets/tabletop.stl": {
+      "bytes": 684,
+      "sha256": "76a1571d1aa36520f2bd81c268991b99816c2a7819464d718e0fd9976fe30dce"
+    },
+    "workspace/third_party/act/assets/vx300s_10_custom_finger_left.stl": {
+      "bytes": 83384,
+      "sha256": "df73ae5b9058e5d50a6409ac2ab687dade75053a86591bb5e23ab051dbf2d659"
+    },
+    "workspace/third_party/act/assets/vx300s_10_custom_finger_right.stl": {
+      "bytes": 83384,
+      "sha256": "56fb3cc1236d4193106038adf8e457c7252ae9e86c7cee6dabf0578c53666358"
+    },
+    "workspace/third_party/act/assets/vx300s_10_gripper_finger.stl": {
+      "bytes": 42884,
+      "sha256": "a4baacd9a64df1be60ea5e98f50f3c660e1b7a1fe9684aace6004c5058c09483"
+    },
+    "workspace/third_party/act/assets/vx300s_11_ar_tag.stl": {
+      "bytes": 3884,
+      "sha256": "a18a1601074d29ed1d546ead70cd18fbb063f1db7b5b96b9f0365be714f3136a"
+    },
+    "workspace/third_party/act/assets/vx300s_1_base.stl": {
+      "bytes": 99984,
+      "sha256": "d100cafe656671ca8fde98fb6a4cf2d1b746995c51c61c25ad9ea2715635d146"
+    },
+    "workspace/third_party/act/assets/vx300s_2_shoulder.stl": {
+      "bytes": 63884,
+      "sha256": "139745a74055cb0b23430bb5bc032bf68cf7bea5e4975c8f4c04107ae005f7f0"
+    },
+    "workspace/third_party/act/assets/vx300s_3_upper_arm.stl": {
+      "bytes": 102984,
+      "sha256": "900f236320dd3d500870c5fde763b2d47502d51e043a5c377875e70237108729"
+    },
+    "workspace/third_party/act/assets/vx300s_4_upper_forearm.stl": {
+      "bytes": 49584,
+      "sha256": "4104fc54bbfb8a9b533029f1e7e3ade3d54d638372b3195daa0c98f57e0295b5"
+    },
+    "workspace/third_party/act/assets/vx300s_5_lower_forearm.stl": {
+      "bytes": 99884,
+      "sha256": "66814e27fa728056416e25e02e89eb7d34c51d51c51e7c3df873829037ddc6b8"
+    },
+    "workspace/third_party/act/assets/vx300s_6_wrist.stl": {
+      "bytes": 70784,
+      "sha256": "90eb145c85627968c3776ae6de23ccff7e112c9dd713c46bc9acdfdaa859a048"
+    },
+    "workspace/third_party/act/assets/vx300s_7_gripper.stl": {
+      "bytes": 450084,
+      "sha256": "786c1077bfd226f14219581b11d5f19464ca95b17132e0bb7532503568f5af90"
+    },
+    "workspace/third_party/act/assets/vx300s_8_gripper_prop.stl": {
+      "bytes": 31684,
+      "sha256": "d1275a93fe2157c83dbc095617fb7e672888bdd48ec070a35ef4ab9ebd9755b0"
+    },
+    "workspace/third_party/act/assets/vx300s_9_gripper_bar.stl": {
+      "bytes": 379484,
+      "sha256": "a4de62c9a2ed2c78433010e4c05530a1254b1774a7651967f406120c9bf8973e"
+    },
+    "workspace/third_party/act/assets/vx300s_dependencies.xml": {
+      "bytes": 1271,
+      "sha256": "7d1000c9206e654ce76fe04eb131edab33efbafb5e74c8011e8e2ae758089274"
+    },
+    "workspace/third_party/act/assets/vx300s_left.xml": {
+      "bytes": 6500,
+      "sha256": "335b72f4bdd0e166e72de303c8ea0d987b54766960fba980aca8daed06a04086"
+    },
+    "workspace/third_party/act/assets/vx300s_right.xml": {
+      "bytes": 6555,
+      "sha256": "1977f05fcc800b8071b2e353202c3fec1ec58ef29d86f3982607b52b6235fb23"
+    },
+    "workspace/third_party/act/conda_env.yaml": {
+      "bytes": 390,
+      "sha256": "b9cefd6bb83a6d5bb399529db1e8adc83456943bf664080e4c85b9ab70b7420b"
+    },
+    "workspace/third_party/act/constants.py": {
+      "bytes": 4021,
+      "sha256": "2e27d4412e2b7e1f2e4148105fdf514d8c52ec6c8f1c86ef0549c475e8b91d86"
+    },
+    "workspace/third_party/act/detr/LICENSE": {
+      "bytes": 11354,
+      "sha256": "b208c52b00a2df2c8f4c3298c34407bf2bfe409968213372251c91fcc737a1a5"
+    },
+    "workspace/third_party/act/detr/README.md": {
+      "bytes": 417,
+      "sha256": "138b41d39a453f11ce56a6aa6dd47ec0afa3195e89f6d0da3daad9b5b0665f91"
+    },
+    "workspace/third_party/act/detr/main.py": {
+      "bytes": 5492,
+      "sha256": "c849042c949d4cfe9ff41b4b167a2af67dae4ba4a0e8b7d25a875d04231a4162"
+    },
+    "workspace/third_party/act/detr/models/__init__.py": {
+      "bytes": 278,
+      "sha256": "7ed43d119c4bef1c46df821cc3b4f256153fbe59717a2e9f1825abc2d3b3e778"
+    },
+    "workspace/third_party/act/detr/models/backbone.py": {
+      "bytes": 4583,
+      "sha256": "dec9770e496e2deb56f694e622a15d01ea3bdea977c2446fb3c41bc18cf4ed55"
+    },
+    "workspace/third_party/act/detr/models/detr_vae.py": {
+      "bytes": 12128,
+      "sha256": "499d968a3704156e5e29425a29691c3fa93421481d3609ed6b600b21801270f1"
+    },
+    "workspace/third_party/act/detr/models/position_encoding.py": {
+      "bytes": 3390,
+      "sha256": "5a8f62c66fc7ec66e862bdfe96e122098b93a688fbed514460990c74fa307151"
+    },
+    "workspace/third_party/act/detr/models/transformer.py": {
+      "bytes": 12989,
+      "sha256": "c6d2a1e7138e6ca62db7cc61bfc99857fb2a3a9375ba7b304310ca264f357ee2"
+    },
+    "workspace/third_party/act/detr/setup.py": {
+      "bytes": 221,
+      "sha256": "96d9ab1a9911e640992121cf64a2d98c1894bf50e51589502388ecd08228f120"
+    },
+    "workspace/third_party/act/detr/util/__init__.py": {
+      "bytes": 71,
+      "sha256": "9e535c45af09ac24ef8d5631a151f77febafe72a92ad6bfeb2d941f0c4a54e35"
+    },
+    "workspace/third_party/act/detr/util/box_ops.py": {
+      "bytes": 2561,
+      "sha256": "f0c1c3e27b0f69955e74b09b4ae1898e41e409d1af292c478ba8be71856112fc"
+    },
+    "workspace/third_party/act/detr/util/misc.py": {
+      "bytes": 15356,
+      "sha256": "b56dfabebf8eded2e7dbf359e167bd308d9c75ee0394f63a751cad9eee597f00"
+    },
+    "workspace/third_party/act/detr/util/plot_utils.py": {
+      "bytes": 4514,
+      "sha256": "45e371d165675185fce81142332da1408abc982585e24f7b084f6068fb51e529"
+    },
+    "workspace/third_party/act/ee_sim_env.py": {
+      "bytes": 12632,
+      "sha256": "4c93d949c0829ffbbd1ea613e8278c095e8265ebf0dd33ca129958edd93e76c4"
+    },
+    "workspace/third_party/act/imitate_episodes.py": {
+      "bytes": 17242,
+      "sha256": "f2b057cd497f3fef20bdc4197879d1c02e1c751f83154cce0183fcc10f7e2540"
+    },
+    "workspace/third_party/act/policy.py": {
+      "bytes": 3277,
+      "sha256": "352efca415ee0e31073a27ca91560195702d1e9b545e573a3a668a53f06dd127"
+    },
+    "workspace/third_party/act/record_sim_episodes.py": {
+      "bytes": 7398,
+      "sha256": "1ad3bdb05defb3059f664851a99d9c2cee6fea1e2591882e1685ee123c81cb98"
+    },
+    "workspace/third_party/act/scripted_policy.py": {
+      "bytes": 9492,
+      "sha256": "8b8425ea09c248d086e47eebaf3875be77bea7d3694fee83a1d7c8f0e1f25c36"
+    },
+    "workspace/third_party/act/sim_env.py": {
+      "bytes": 12751,
+      "sha256": "691f555cb3d8ede94c8ddc9c76a996f03b00f3bbdee9726efa44cd75b19d0ada"
+    },
+    "workspace/third_party/act/utils.py": {
+      "bytes": 6969,
+      "sha256": "71315de9e613024e781f089c2f46baa6a94be79daa97a45c8601829fc1badcec"
+    },
+    "workspace/third_party/act/visualize_episodes.py": {
+      "bytes": 5069,
+      "sha256": "b2d543b0b9271317bf461383d6b6d42269d10787fdd556432db303f905cdff75"
+    },
+    "workspace/third_party/wheelhouse/einops-0.8.2-py3-none-any.whl": {
+      "bytes": 65638,
+      "sha256": "54058201ac7087911181bfec4af6091bb59380360f069276601256a76af08193"
+    },
+    "workspace/third_party/wheelhouse/filelock-4.2.4-py3-none-any.whl": {
+      "bytes": 162475,
+      "sha256": "301241438c57936ef93f4243a94f2559022268bfcf9b375a9a72eb0f8db8358e"
+    },
+    "workspace/third_party/wheelhouse/h5py-3.16.0-cp311-cp311-manylinux_2_28_x86_64.whl": {
+      "bytes": 5027150,
+      "sha256": "fb1720028d99040792bb2fb31facb8da44a6f29df7697e0b84f0d79aff2e9bd3"
+    },
+    "workspace/third_party/wheelhouse/ipython-9.17.1-py3-none-any.whl": {
+      "bytes": 639038,
+      "sha256": "6d1645743cfd1a07eb695d85aa2b5fa66721f8cbae9431d4049f7084bbf06509"
+    },
+    "workspace/third_party/wheelhouse/jinja2-3.1.6-py3-none-any.whl": {
+      "bytes": 134899,
+      "sha256": "85ece4451f492d0c13c5dd7c13a64681a86afae63a5f347908daf103ce6d2f67"
+    },
+    "workspace/third_party/wheelhouse/matplotlib-3.11.2-cp311-cp311-manylinux2014_x86_64.manylinux_2_17_x86_64.whl": {
+      "bytes": 9854405,
+      "sha256": "07d9b9fa60cd4c393692f50d0bb03123242ddf61c99bb0e95e75feb354e7c1a8"
+    },
+    "workspace/third_party/wheelhouse/networkx-3.6.1-py3-none-any.whl": {
+      "bytes": 2068504,
+      "sha256": "d47fbf302e7d9cbbb9e2555a0d267983d2aa476bac30e90dfbe5669bd57f3762"
+    },
+    "workspace/third_party/wheelhouse/nvidia_cublas_cu12-12.4.5.8-py3-none-manylinux2014_x86_64.whl": {
+      "bytes": 363438805,
+      "sha256": "2fc8da60df463fdefa81e323eef2e36489e1c94335b5358bcb38360adf75ac9b"
+    },
+    "workspace/third_party/wheelhouse/nvidia_cuda_cupti_cu12-12.4.127-py3-none-manylinux2014_x86_64.whl": {
+      "bytes": 13813957,
+      "sha256": "9dec60f5ac126f7bb551c055072b69d85392b13311fcc1bcda2202d172df30fb"
+    },
+    "workspace/third_party/wheelhouse/nvidia_cuda_nvrtc_cu12-12.4.127-py3-none-manylinux2014_x86_64.whl": {
+      "bytes": 24640306,
+      "sha256": "a178759ebb095827bd30ef56598ec182b85547f1508941a3d560eb7ea1fbf338"
+    },
+    "workspace/third_party/wheelhouse/nvidia_cuda_runtime_cu12-12.4.127-py3-none-manylinux2014_x86_64.whl": {
+      "bytes": 883737,
+      "sha256": "64403288fa2136ee8e467cdc9c9427e0434110899d07c779f25b5c068934faa5"
+    },
+    "workspace/third_party/wheelhouse/nvidia_cudnn_cu12-9.1.0.70-py3-none-manylinux2014_x86_64.whl": {
+      "bytes": 664752741,
+      "sha256": "165764f44ef8c61fcdfdfdbe769d687e06374059fbb388b6c89ecb0e28793a6f"
+    },
+    "workspace/third_party/wheelhouse/nvidia_cufft_cu12-11.2.1.3-py3-none-manylinux2014_x86_64.whl": {
+      "bytes": 211459117,
+      "sha256": "f083fc24912aa410be21fa16d157fed2055dab1cc4b6934a0e03cba69eb242b9"
+    },
+    "workspace/third_party/wheelhouse/nvidia_curand_cu12-10.3.5.147-py3-none-manylinux2014_x86_64.whl": {
+      "bytes": 56305206,
+      "sha256": "a88f583d4e0bb643c49743469964103aa59f7f708d862c3ddb0fc07f851e3b8b"
+    },
+    "workspace/third_party/wheelhouse/nvidia_cusolver_cu12-11.6.1.9-py3-none-manylinux2014_x86_64.whl": {
+      "bytes": 127936057,
+      "sha256": "19e33fa442bcfd085b3086c4ebf7e8debc07cfe01e11513cc6d332fd918ac260"
+    },
+    "workspace/third_party/wheelhouse/nvidia_cusparse_cu12-12.3.1.170-py3-none-manylinux2014_x86_64.whl": {
+      "bytes": 207454763,
+      "sha256": "ea4f11a2904e2a8dc4b1833cc1b5181cde564edd0d5cd33e3c168eff2d1863f1"
+    },
+    "workspace/third_party/wheelhouse/nvidia_cusparselt_cu12-0.6.2-py3-none-manylinux2014_x86_64.whl": {
+      "bytes": 150057751,
+      "sha256": "df2c24502fd76ebafe7457dbc4716b2fec071aabaed4fb7691a201cde03704d9"
+    },
+    "workspace/third_party/wheelhouse/nvidia_nccl_cu12-2.21.5-py3-none-manylinux2014_x86_64.whl": {
+      "bytes": 188654414,
+      "sha256": "8579076d30a8c24988834445f8d633c697d42397e92ffc3f63fa26766d25e0a0"
+    },
+    "workspace/third_party/wheelhouse/nvidia_nvjitlink_cu12-12.4.127-py3-none-manylinux2014_x86_64.whl": {
+      "bytes": 21066810,
+      "sha256": "06b3b9b25bf3f8af351d664978ca26a16d2c5127dbd53c0497e28d1fb9611d57"
+    },
+    "workspace/third_party/wheelhouse/nvidia_nvtx_cu12-12.4.127-py3-none-manylinux2014_x86_64.whl": {
+      "bytes": 99144,
+      "sha256": "781e950d9b9f60d8241ccea575b32f5105a5baf4c2351cab5256a24869f12a1a"
+    },
+    "workspace/third_party/wheelhouse/torch-2.6.0-cp311-cp311-manylinux1_x86_64.whl": {
+      "bytes": 766715424,
+      "sha256": "7979834102cd5b7a43cc64e87f2f3b14bd0e1458f06e9f88ffa386d07c7446e1"
+    },
+    "workspace/third_party/wheelhouse/torchvision-0.21.0-cp311-cp311-manylinux1_x86_64.whl": {
+      "bytes": 7237719,
+      "sha256": "3891cd086c5071bda6b4ee9d266bb2ac39c998c045c2ebcd1e818b8316fb5d41"
+    },
+    "workspace/third_party/wheelhouse/triton-3.2.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": {
+      "bytes": 253157636,
+      "sha256": "8009a1fb093ee8546495e96731336a33fb8856a38e45bb4ab6affd6dbc3ba220"
+    }
+  }
+}

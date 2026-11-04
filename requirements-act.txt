@@ -1,0 +1,6 @@
+torch==2.6.0
+torchvision==0.21.0
+h5py==3.16.0
+einops==0.8.2
+matplotlib==3.11.2
+ipython==9.17.1

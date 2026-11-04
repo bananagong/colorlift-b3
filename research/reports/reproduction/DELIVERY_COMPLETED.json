@@ -1,0 +1,73 @@
+{
+  "completed_at_UTC": "2026-10-31T14:20:16.357462+00:00",
+  "destination": "C:\\Users\\LHY\\Desktop\\模型训练\\B2_B3复现确认_20261031\\final_results",
+  "status": "stage1_completed_waiting_stage2_protocol",
+  "verdict": "inconclusive",
+  "archive_SHA256_verified_on_server_and_after_download": "09e02722d0103f5ea41191985c7b19856ac25e350022048151273f73581ee698",
+  "all_original_file_SHA256_verified_after_extraction_and_on_desktop": true,
+  "original_files_verified": 376414,
+  "original_manifest_sha256": "09aee4613f890ca598233f3ab4a33d1bccfe46ed93dafeb2592001ad8f8a435b",
+  "original_verified_bytes": 14887698148,
+  "audit": {
+    "source_files_verified": 184,
+    "locked_models_verified": 16,
+    "sealed_files_verified": 3094,
+    "common_initial_and_paired_plans_verified": true,
+    "protocol_sha256": "04ca3acf602ae50b56ad3e63329894775f716a960836dbe8feec6e962f86efb1",
+    "seal_sha256": "701a7c1b70c1ac3f1b242f421a62b0191bd0243325a8f39d54a3a72210845933",
+    "development_episodes": 6912,
+    "confirmation_episodes": 86016,
+    "independent_new_geometries": 768,
+    "confirmation_single_front_camera_videos": 923,
+    "stage2_started": false,
+    "failure_video_and_trace_links_verified": 763,
+    "verdict": "inconclusive"
+  },
+  "primary_new_training_seed_pairs": 6,
+  "primary_confirmation_episodes": 64512,
+  "legacy_supplement_episodes": 21504,
+  "supplementary_delivery_files": {
+    "B2_B3_confirmation_comparison.png": {
+      "bytes": 287184,
+      "sha256": "26d710181abfe88c22e9a371ad3118591f9009f0f4f3ee4144359beb1c862d0d"
+    },
+    "B2_B3_confirmation_comparison.svg": {
+      "bytes": 134990,
+      "sha256": "47fa18e2bafd546d7170b009002087d61644a84d9d139adbf86a51ae53026ee1"
+    },
+    "failure_videos.html": {
+      "bytes": 470368,
+      "sha256": "c74452b9e85b2daa21c7b7794a8d042cceb138435b9fb2f1e8dbd306f7ca788a"
+    },
+    "paired_seed_summary.csv": {
+      "bytes": 692,
+      "sha256": "d2b084e14da2f2986b3bdef07a03424d16cffd449dddc5a4da48cfb07f29e329"
+    },
+    "补充统计与交付说明.zh-CN.md": {
+      "bytes": 4586,
+      "sha256": "b827ce979dcd67b1eee6150abb956a4a26cca0a92b5a5aa31973ad1553c3e42c"
+    },
+    "export_archive.json": {
+      "bytes": 276,
+      "sha256": "c334b3061bde48e320c6e84068de5ed67553ff25cabecf15b94af2bd688a884c"
+    },
+    "archive_download_verified.json": {
+      "bytes": 241,
+      "sha256": "85b74fa5ff234237966b7f11688e2e004916a4d6997f54f7eafee8ad3b7a1f02"
+    },
+    "server_delivery_audit.json": {
+      "bytes": 569,
+      "sha256": "7645477f1b625fa8a04130dd7a370093aa5597d8a3b613bbb73cb1926c5f9ddc"
+    },
+    "DELIVERY_EXTRACTION_VERIFIED.json": {
+      "bytes": 1465,
+      "sha256": "6f289595a57b556ca31c4624311cebd7869888527ba4f6ab25ace494ef5e49e7"
+    },
+    "DELIVERY_ORIGINAL_FILES_VERIFIED.json": {
+      "bytes": 1498,
+      "sha256": "dd2a73af6a67108e6fb2ee4c91651a068e7fbf2060d3d3233bcdd819ab2cf6cf"
+    }
+  },
+  "stage2_started": false,
+  "prior_files_preserved": true
+}

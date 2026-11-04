@@ -1,0 +1,48 @@
+{
+  "archives": {
+    "expert_demonstrations.tar.gz": {
+      "sha256": "dbf6a2093b631ad81f390d75ca9bc043ece3a492cddd8f9b1ec2e43a7ebf326e",
+      "bytes": 5810801135,
+      "inner_files": 14810,
+      "all_inner_file_hashes_match": true,
+      "uncompressed_bytes_verified": 6196033501,
+      "audit": {
+        "demonstration_episodes": 2769,
+        "training_episodes": 2337,
+        "validation_episodes": 432
+      }
+    },
+    "training_checkpoints.tar.gz": {
+      "sha256": "130a7015d5f348f531f51efabfe46794a42b9b4696ca7b911cb5bc249fba2aee",
+      "bytes": 6647346807,
+      "inner_files": 167,
+      "all_inner_file_hashes_match": true,
+      "uncompressed_bytes_verified": 7471999671,
+      "audit": {
+        "locked_B3_policies": 8
+      }
+    },
+    "source_environment.tar.gz": {
+      "sha256": "d7b100ab957782750e2f2cba045113a0382e74a3e8cbfdaace208752cde88aac",
+      "bytes": 3067163488,
+      "inner_files": 262,
+      "all_inner_file_hashes_match": true,
+      "uncompressed_bytes_verified": 3078847148,
+      "audit": {
+        "frozen_python_sources": 184
+      }
+    },
+    "training_cache.tar.gz": {
+      "sha256": "543facc52cfa80dcb88ea9af8887a7e374260b94d72dc72b67c801e44b41e08f",
+      "bytes": 6829635736,
+      "inner_files": 39,
+      "all_inner_file_hashes_match": true,
+      "uncompressed_bytes_verified": 28710986260,
+      "audit": {
+        "frozen_cache_arrays": 38
+      }
+    }
+  },
+  "all_archives_match": true,
+  "updated_at_UTC": "2026-11-01T08:53:58.751507+00:00"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "B3_s49",
+  "seed": 49,
+  "sampler": "balanced",
+  "steps": 6000,
+  "batch": 36,
+  "max_chunk": 4,
+  "relative_lambda": 0.1,
+  "pregrasp_lambda": 0.0,
+  "B4_data": false,
+  "initial_sha256": "886d02ac81c7171895c5011eb0a86578c4353ea6db2bcb9578bb2c570bf28a5a",
+  "selection": "physical closed-loop development success; val loss tie only",
+  "forecast_capacity": 4,
+  "contact_prefix": 2,
+  "execution_lengths": [
+    4,
+    2,
+    1,
+    4
+  ],
+  "physical_gpu": "2",
+  "warm_start_history_caveat": "fresh current-protocol holdout; inherited task checkpoint may have prior spatial/relation exposure; mixed/Sobol cohort is not unconstrained IID"
+}

@@ -1,0 +1,71 @@
+{
+  "client_date_Asia_Shanghai": "2026-11-01",
+  "user_selected_model_family": "B3",
+  "relative_lambda": 0.1,
+  "original_frozen_reference": "legacy_B3_s44",
+  "main_reference_sha256": "d34b91b8882a764d7556a6a28663b6fe3d5d2b8a94426dbffa798d41ba41704d",
+  "new_replication_seeds": [
+    45,
+    46,
+    47,
+    48,
+    49,
+    50
+  ],
+  "historical_reference_seeds": [
+    43,
+    44
+  ],
+  "intermediate_model_directories": [
+    "experiments/colorlift_broad_act_round1/models/B3a_l0p1_s43",
+    "experiments/colorlift_broad_act_round1/models/B3a_l0p1_s44",
+    "experiments/colorlift_broad_act_round1/models/B3a_l0p3_s43",
+    "experiments/colorlift_broad_act_round1/models/B3a_l0p3_s44",
+    "experiments/colorlift_broad_act_round1/models/B3a_l1_s43",
+    "experiments/colorlift_broad_act_round1/models/B3a_l1_s44",
+    "experiments/colorlift_repro_confirm_v1/models/B3_s45",
+    "experiments/colorlift_repro_confirm_v1/models/B3_s46",
+    "experiments/colorlift_repro_confirm_v1/models/B3_s47",
+    "experiments/colorlift_repro_confirm_v1/models/B3_s48",
+    "experiments/colorlift_repro_confirm_v1/models/B3_s49",
+    "experiments/colorlift_repro_confirm_v1/models/B3_s50"
+  ],
+  "logical_demonstration_episodes": 2769,
+  "training_validation_counts": {
+    "train": {
+      "frames": 185826,
+      "episodes": 2337,
+      "geometries": 395,
+      "episodes_by_source": {
+        "0": 1728,
+        "1": 417,
+        "2": 192
+      },
+      "valid_frames": 182714
+    },
+    "val": {
+      "frames": 32946,
+      "episodes": 432,
+      "geometries": 48,
+      "episodes_by_source": {
+        "0": 432
+      },
+      "valid_frames": 32946
+    }
+  },
+  "files_by_archive": {
+    "training_cache": 39,
+    "expert_demonstrations": 14810,
+    "training_checkpoints": 167,
+    "source_environment": 262
+  },
+  "uncompressed_bytes_by_archive": {
+    "training_cache": 28710986260,
+    "expert_demonstrations": 6196033501,
+    "training_checkpoints": 7471999671,
+    "source_environment": 3078847148
+  },
+  "no_new_training_or_evaluation": true,
+  "GPU_used_for_preservation": false,
+  "original_files_preserved": true
+}

@@ -1,0 +1,18 @@
+{
+  "status": "read_only_verified_reference",
+  "client_date": "2026-10-31",
+  "B3": {
+    "path": "/home/catlab/mujoco_robosuite/experiments/colorlift_broad_act_round1/models/B3a_l0p1_s44/policy.pt",
+    "sha256": "d34b91b8882a764d7556a6a28663b6fe3d5d2b8a94426dbffa798d41ba41704d",
+    "recipe": "B3a, balanced sampler, relative lambda0.1, pregrasp lambda0, original runtime"
+  },
+  "B2": {
+    "path": "/home/catlab/mujoco_robosuite/experiments/colorlift_broad_act_round1/models/B2_balanced_s44/policy.pt",
+    "sha256": "7b92f8dd6f711106b77f902f87b43df0e14cbd415b4ed8fd9b9288b1a9144e34",
+    "recipe": "balanced sampler, no geometry auxiliary, original runtime"
+  },
+  "common_initial_sha256": "886d02ac81c7171895c5011eb0a86578c4353ea6db2bcb9578bb2c570bf28a5a",
+  "original_round_protocol_sha256": "be1246bfabaab1d5ede3e3eeeb34e500e56fbac19b6fa2e692f315f93d2acfd9",
+  "original_layout_protocol_sha256": "614db006d1f85085d49e776b7d0af5a9a6df05ba2a06f43884488836040a60ba",
+  "original_artifacts_modified": false
+}

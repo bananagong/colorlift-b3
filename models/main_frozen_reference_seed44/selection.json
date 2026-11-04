@@ -1,0 +1,80 @@
+{
+  "model": "B3a_l0p1_s44",
+  "chosen_checkpoint": "B3a_l0p1_s44_step6000",
+  "metrics": {
+    "episodes": 144,
+    "independent_geometries": 48,
+    "successes": 144,
+    "success_rate": 1.0,
+    "balanced_success": 1.0,
+    "contact_successes": 144,
+    "balanced_contact": 1.0,
+    "wrong_colors": 0,
+    "collision_episodes": 0,
+    "mean_steps_all": 76.36111111111111,
+    "mean_success_steps": 76.36111111111111,
+    "mean_close_XY_error_m": 0.009842656229877548
+  },
+  "all_checkpoints": {
+    "B3a_l0p1_s44_step1500": {
+      "episodes": 144,
+      "independent_geometries": 48,
+      "successes": 144,
+      "success_rate": 1.0,
+      "balanced_success": 1.0,
+      "contact_successes": 142,
+      "balanced_contact": 0.9784313725490197,
+      "wrong_colors": 0,
+      "collision_episodes": 2,
+      "mean_steps_all": 76.29166666666667,
+      "mean_success_steps": 76.29166666666667,
+      "mean_close_XY_error_m": 0.009713063154937964
+    },
+    "B3a_l0p1_s44_step3000": {
+      "episodes": 144,
+      "independent_geometries": 48,
+      "successes": 144,
+      "success_rate": 1.0,
+      "balanced_success": 1.0,
+      "contact_successes": 144,
+      "balanced_contact": 1.0,
+      "wrong_colors": 0,
+      "collision_episodes": 0,
+      "mean_steps_all": 77.16666666666667,
+      "mean_success_steps": 77.16666666666667,
+      "mean_close_XY_error_m": 0.010888549482370223
+    },
+    "B3a_l0p1_s44_step4500": {
+      "episodes": 144,
+      "independent_geometries": 48,
+      "successes": 144,
+      "success_rate": 1.0,
+      "balanced_success": 1.0,
+      "contact_successes": 144,
+      "balanced_contact": 1.0,
+      "wrong_colors": 0,
+      "collision_episodes": 0,
+      "mean_steps_all": 76.54861111111111,
+      "mean_success_steps": 76.54861111111111,
+      "mean_close_XY_error_m": 0.010924498226449022
+    },
+    "B3a_l0p1_s44_step6000": {
+      "episodes": 144,
+      "independent_geometries": 48,
+      "successes": 144,
+      "success_rate": 1.0,
+      "balanced_success": 1.0,
+      "contact_successes": 144,
+      "balanced_contact": 1.0,
+      "wrong_colors": 0,
+      "collision_episodes": 0,
+      "mean_steps_all": 76.36111111111111,
+      "mean_success_steps": 76.36111111111111,
+      "mean_close_XY_error_m": 0.009842656229877548
+    }
+  },
+  "policy_path": "experiments/colorlift_broad_act_round1/models/B3a_l0p1_s44/policy.pt",
+  "sha256": "d34b91b8882a764d7556a6a28663b6fe3d5d2b8a94426dbffa798d41ba41704d",
+  "selection_primary": "physical closed-loop category-balanced success",
+  "final_used": false
+}

@@ -1,0 +1,137 @@
+{
+  "locked_at_UTC": "2026-10-31T04:19:07.452465+00:00",
+  "models": {
+    "B2_s45": {
+      "group": "B2",
+      "training_seed": 45,
+      "cohort": "new",
+      "controller": "original",
+      "path": "experiments/colorlift_repro_confirm_v1/models/B2_s45/policy.pt",
+      "sha256": "d63c8fbaff9781ff8f4444b286e21ead1d2fc872fc9d38930d0f744969bd06f2"
+    },
+    "B3_s45": {
+      "group": "B3",
+      "training_seed": 45,
+      "cohort": "new",
+      "controller": "original",
+      "path": "experiments/colorlift_repro_confirm_v1/models/B3_s45/policy.pt",
+      "sha256": "8604de53e2543ed9c9072d40119c028d0c19985c6e91a7bce814990c81e5c5f7"
+    },
+    "B2_s46": {
+      "group": "B2",
+      "training_seed": 46,
+      "cohort": "new",
+      "controller": "original",
+      "path": "experiments/colorlift_repro_confirm_v1/models/B2_s46/policy.pt",
+      "sha256": "e676520a9470e999d4cdcf30ee4620342ac3161fdad78fff024443e68505f90c"
+    },
+    "B3_s46": {
+      "group": "B3",
+      "training_seed": 46,
+      "cohort": "new",
+      "controller": "original",
+      "path": "experiments/colorlift_repro_confirm_v1/models/B3_s46/policy.pt",
+      "sha256": "36ba20618a31b73dea0a32e49a46e6993db81a98a149ffe2064bcd2454288c15"
+    },
+    "B2_s47": {
+      "group": "B2",
+      "training_seed": 47,
+      "cohort": "new",
+      "controller": "original",
+      "path": "experiments/colorlift_repro_confirm_v1/models/B2_s47/policy.pt",
+      "sha256": "88da59cfda67bccf34f0de2761d0c075c153ff26b8c4b061d1f5dc60b4ddc97e"
+    },
+    "B3_s47": {
+      "group": "B3",
+      "training_seed": 47,
+      "cohort": "new",
+      "controller": "original",
+      "path": "experiments/colorlift_repro_confirm_v1/models/B3_s47/policy.pt",
+      "sha256": "0ee9537507c47e3d4a6253f9e7ef4eb63bdd6dd1e9354da0e4a2c6c6c86bd173"
+    },
+    "B2_s48": {
+      "group": "B2",
+      "training_seed": 48,
+      "cohort": "new",
+      "controller": "original",
+      "path": "experiments/colorlift_repro_confirm_v1/models/B2_s48/policy.pt",
+      "sha256": "17c379f27941bf7183d4fbfa67c50b4c9c0c0b65a0583ce9b9c1b79f0d394be4"
+    },
+    "B3_s48": {
+      "group": "B3",
+      "training_seed": 48,
+      "cohort": "new",
+      "controller": "original",
+      "path": "experiments/colorlift_repro_confirm_v1/models/B3_s48/policy.pt",
+      "sha256": "93900096d8f6313a066e473905e30f41eb82e42ade96381ee5117b9b76add2c7"
+    },
+    "B2_s49": {
+      "group": "B2",
+      "training_seed": 49,
+      "cohort": "new",
+      "controller": "original",
+      "path": "experiments/colorlift_repro_confirm_v1/models/B2_s49/policy.pt",
+      "sha256": "8497a9af4911db30dc834a92f4f8dfdbaf34c3e404d43abdfe162204202041f0"
+    },
+    "B3_s49": {
+      "group": "B3",
+      "training_seed": 49,
+      "cohort": "new",
+      "controller": "original",
+      "path": "experiments/colorlift_repro_confirm_v1/models/B3_s49/policy.pt",
+      "sha256": "bfefdc12f4f6358320dc3fd97c236f3db7a058747f584cf67c344c7b71742743"
+    },
+    "B2_s50": {
+      "group": "B2",
+      "training_seed": 50,
+      "cohort": "new",
+      "controller": "original",
+      "path": "experiments/colorlift_repro_confirm_v1/models/B2_s50/policy.pt",
+      "sha256": "3370806933764cc5f66a7e6b245db5aae37565efb4e955a08189b0a7d2db61ee"
+    },
+    "B3_s50": {
+      "group": "B3",
+      "training_seed": 50,
+      "cohort": "new",
+      "controller": "original",
+      "path": "experiments/colorlift_repro_confirm_v1/models/B3_s50/policy.pt",
+      "sha256": "c9def473682afda7b9c4e6ec0dc59e06ddec15ec9b9c9b5be1ba3427aaa7073a"
+    },
+    "legacy_B2_s43": {
+      "group": "B2",
+      "training_seed": 43,
+      "cohort": "legacy_supplement",
+      "controller": "original",
+      "path": "experiments/colorlift_repro_confirm_v1/frozen_references/B2_s43.pt",
+      "sha256": "50bf8228a2cbcd8b0b0a28a5d6c2fef9bac4a16ce5fc22aa0fe8fb7a9e0ee07d"
+    },
+    "legacy_B3_s43": {
+      "group": "B3",
+      "training_seed": 43,
+      "cohort": "legacy_supplement",
+      "controller": "original",
+      "path": "experiments/colorlift_repro_confirm_v1/frozen_references/B3_s43.pt",
+      "sha256": "765fa881e49d1f25b6cdb4385a597f07017a271eef25640a7b150b6d45751d5e"
+    },
+    "legacy_B2_s44": {
+      "group": "B2",
+      "training_seed": 44,
+      "cohort": "legacy_supplement",
+      "controller": "original",
+      "path": "experiments/colorlift_repro_confirm_v1/frozen_references/B2_s44.pt",
+      "sha256": "7b92f8dd6f711106b77f902f87b43df0e14cbd415b4ed8fd9b9288b1a9144e34"
+    },
+    "legacy_B3_s44": {
+      "group": "B3",
+      "training_seed": 44,
+      "cohort": "legacy_supplement",
+      "controller": "original",
+      "path": "experiments/colorlift_repro_confirm_v1/frozen_references/B3_s44.pt",
+      "sha256": "d34b91b8882a764d7556a6a28663b6fe3d5d2b8a94426dbffa798d41ba41704d"
+    }
+  },
+  "seal_sha256": "701a7c1b70c1ac3f1b242f421a62b0191bd0243325a8f39d54a3a72210845933",
+  "protocol_sha256": "04ca3acf602ae50b56ad3e63329894775f716a960836dbe8feec6e962f86efb1",
+  "selection_sources": "original development only",
+  "all_seeds_retained": true
+}
